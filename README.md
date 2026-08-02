@@ -8,9 +8,8 @@ This repository contains the sanitized evaluation data, reproducibility script, 
 
 ## Authors
 
-**Javier E. Sanchez-Galan**  
 **Stanislava Ursulyak**
-
+**Javier E. Sanchez-Galan**  
 
 ---
 
