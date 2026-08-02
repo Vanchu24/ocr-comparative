@@ -9,6 +9,7 @@ This repository contains the sanitized evaluation data, reproducibility script, 
 ## Authors
 
 **Stanislava Ursulyak**
+
 **Javier E. Sanchez-Galan**  
 
 ---
