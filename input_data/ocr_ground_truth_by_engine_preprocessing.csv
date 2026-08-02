@@ -1,0 +1,7 @@
+ocr_engine,ocr_engine_key,preprocessing_variant,documents_evaluated,documents_successful,average_cer,average_wer,average_time_seconds,average_reference_token_recall,success_rate_percent
+PaddleOCR,paddle,enhanced,25,25,0.9641,1.2527,3.9306,0.1561,100.0
+PaddleOCR,paddle,none,25,25,1.0904,1.3715,3.9467,0.1817,100.0
+EasyOCR,easyocr,enhanced,25,25,1.4992,2.0659,7.7711,0.1467,100.0
+EasyOCR,easyocr,none,25,25,1.6155,2.2821,7.8666,0.1877,100.0
+Doctr,doctr,none,25,25,1.8633,2.4422,6.3847,0.2955,100.0
+Doctr,doctr,enhanced,25,25,1.7889,2.4497,6.3762,0.2609,100.0

@@ -1,0 +1,3685 @@
+image_file,image_id,ocr_engine,ocr_engine_key,preprocessing_variant,success,processing_time_seconds,reference_text,ocr_text,reference_characters,ocr_characters,reference_words,ocr_words,cer,wer,reference_token_recall
+10.jpg,10,Doctr,doctr,none,True,7.0088,"medical certificate 2021-08-24 Apollo Hospitals, Institutes of Gastroenterology Mr. Ch. Samuel IP No: 367588 62 years Male Severe sepsis with MODS; likely liver abscess with aspiration pneumonia Liver Likely liver abscess with aspiration pneumonia Currently admitted under care and undergoing treatment in ICU. Further hospital stay needed for about 8-10 days for complete recovery.","Dr. Naveen
+MRCP (UK), FRCP (Gastro), Polavarapu CCT
+INSTITUTES OF
+Consultant
+(Gastro). Liver Trahsplant Fellowsno
+GASYROENTEROLOGY
+Regd.No. 46206 Gastroenterologist and Transplant Hepatologist
+Apollo
+For P 040 - 2360 7777, Extn 4005/1142
+Email appointments a docpolav@gmail.com call between 10 am 6 pm  7382778899
+aylel
+To WIOM SO EVER TT MAY CONCERN
+This us to in/oom hat Mr. CHSAMUEL 6ayelMale
+us
+ceuently admitted undei
+Caue wnh TP.No: 367588.
+ny
+He ls Cuskerly
+tualinet con LLU jer
+undaugeing
+devese lopsis with MODS Clikely lus abscege wotth
+) Yle
+needs sblespital Joy
+arpiration preumonia
+futfur
+Thus sto
+about 8-10 days fpr Compliti Yecorey
+der
+dothe
+and
+needful.
+Kurdly
+enlom
+Thaukig You
+DE NAVEENPOLAVARAPU
+MROP LonWROP (Edn MRCP (Gasuo), CCST (Gastro)
+UverTorsplal
+Consultant
+TransplanlH
+Regd. No46206
+Apollo Hospitals, Jubllee Hils, Hyd-96.
+OPPO-A52
+Apollo Health City Campus, Jubilee Hills, Hyderabad - 500 096, Indial G+91-1860 258 1066 Fax: +91-40-23608050
+D apollohealtheity@apolihospitals. com www.apollheathtchycom Eapallohealthelty apolloheaithhyd REmerency Cal-1068
+hnatia ha
+Frank
+à apoliahealthcityhyd",375,1083,57,169,2.2533,2.8246,0.375
+10.jpg,10,EasyOCR,easyocr,none,True,9.4827,"medical certificate 2021-08-24 Apollo Hospitals, Institutes of Gastroenterology Mr. Ch. Samuel IP No: 367588 62 years Male Severe sepsis with MODS; likely liver abscess with aspiration pneumonia Liver Likely liver abscess with aspiration pneumonia Currently admitted under care and undergoing treatment in ICU. Further hospital stay needed for about 8-10 days for complete recovery.","Dr; Naveen Polavarapu MRCP (Uk) FrCA Corsultant '[Oantro! CCT (Gasto) Livat Ttanuplant #euems""b Regd. Gastroenterologisl] No: 46200 anaetansplanl Hepaloloqist 040 2360 77 / Fot Extn 4005i4 Emaappoontments CJi bem0005/0 4 aocpolav@gmail com 6 Am : 7102778809
+iatuese
+Apollo [GastRoenteroLoGy
+yle/u
+To WuOm S0 Eve e IT MAY ConCeRn
+Thu U
+Jnlonm ~kat Mr- CK . SAmuel 6lyr | Malz Uu ccuuntly  admuttaf urdu Cau wiJh  Tp.No: 36+s88 ny He 1 (usuly  Wrdiqeiy talii w CCU siesaSspsu kr dh Mobs (kyy Lui okstex? sNh Axpiraben   pruumonia )  Y6 fuku  needs  lerpilal lomblut TF Jo 6 alout & -I0  dos 768 ~ecoiyf and Kurdly do -ba hee ckul &n kprm Fuukif Yau DE NAVEEN POLAVABAPU RCP Ln) WRCp Eiol VacP C vb] CCS] (Gazuo) Loa Consuteni Trcplznl| Rai %0-2255 Ancilo Hosqilalz, Jubllze Hils, it0-%5 ,
+OPpo-A52 Apollo Henattn Crty Carpus  uoulee Hills; Hydurabad 500 098  Indial 4+91-IBO0 253 1066 Far 91-40-23608050 . anlloneahnciy @4poliunosmizis cot 1EneNWE CLLoood VaNW Jbollat eattncuvcont Hnulknttekultety apallpheanyd Haneaae aouio eruncithd",375,971,57,168,2.0453,2.8596,0.125
+10.jpg,10,PaddleOCR,paddle,none,True,3.8769,"medical certificate 2021-08-24 Apollo Hospitals, Institutes of Gastroenterology Mr. Ch. Samuel IP No: 367588 62 years Male Severe sepsis with MODS; likely liver abscess with aspiration pneumonia Liver Likely liver abscess with aspiration pneumonia Currently admitted under care and undergoing treatment in ICU. Further hospital stay needed for about 8-10 days for complete recovery.","Dr.Naveen Polavarapu
+Apollo
+GASTROENTEROLOGY
+Regd.No.46206
+P040-23607777.Extn4005/1142
+Email:docpolav@gmail.com
+2418/1
+6dyr/male
+piraton pnmenia).t tutu need iepital y
+enfom and Kidly dote needful.
+Thaukiy you.
+D.NAVEEN POLAVARAPU
+CP LRCPEMRCPCCSTGas
+Consutant.c
+Regd.No:46206
+ApolloHositsJubiee HsHyd-96
+OPPO A52",375,310,57,49,0.7493,0.9474,0.1042
+10.jpg,10,Doctr,doctr,enhanced,True,7.0583,"medical certificate 2021-08-24 Apollo Hospitals, Institutes of Gastroenterology Mr. Ch. Samuel IP No: 367588 62 years Male Severe sepsis with MODS; likely liver abscess with aspiration pneumonia Liver Likely liver abscess with aspiration pneumonia Currently admitted under care and undergoing treatment in ICU. Further hospital stay needed for about 8-10 days for complete recovery.","Dr. Naveen
+MRCP (UK) FRCP (Gastrol. Polavarapu CCr
+PA
+BA
+Conauitant Gastroenterologist (Oastro), Livet Tahuplant Patowstip
+)
+ANEDENTEROLDGY
+and Transplant
+Apollo
+P Regd.No. 040 46206
+Hepatologial
+Far appountments 2360 mm Extn 4005/1142
+Emau : docpolav@lgmai.com call berween 10 am 6 pm 7382778809
+ayle/
+To Wuom So EVER TT MAY CON CE RA
+This us to infom hat
+Mr. CA SAMUEL
+bxyr IMale
+ts
+uusently admittad undes
+Cas wnh TP No: 36 4588
+my
+He ls Cusserly
+tialinet un LLU fer
+urdugoing
+dwese lepsis toith MODS Clkely luna abscere wwth
+).4
+needo slespital Joy
+arpration preumonia
+fushu
+Thub iio t
+about g-10 days fpr Compliti recorey
+dor
+dote
+and
+heedful.
+Kirdly
+enprm
+-
+Thaukig You
+if NAVEEN POLAVARAPU
+ACP Lan VSCP ff Snj MPry IGmum CCST (
+LAT
+a
+Corutine
+Tranpl -
+:
+Rugd ko 46206
+Apula Hoplats Jubile H Hoa
+Opper P
+Apolo I Heath Cly Campos, Jubles His, Hyderahad 500 098. Indi +91- 1860: 258 1065 Fax +91-40-23506050 a
+apcilohe-aliaty@apolohosptaits.co www.abolchathchymom aDoloheathety apaliohesmiyd
+Emaryens L-1068
+inalh F
+sr nat delhtnn cn -
+à apolntatincthyhyd",375,1023,57,180,2.1227,3.0526,0.1875
+10.jpg,10,EasyOCR,easyocr,enhanced,True,9.1719,"medical certificate 2021-08-24 Apollo Hospitals, Institutes of Gastroenterology Mr. Ch. Samuel IP No: 367588 62 years Male Severe sepsis with MODS; likely liver abscess with aspiration pneumonia Liver Likely liver abscess with aspiration pneumonia Currently admitted under care and undergoing treatment in ICU. Further hospital stay needed for about 8-10 days for complete recovery.","Dr: Naveen Polavarapu CRCP UK) FrcP (GustoL conal ViaNt CCT (Datto): L tvnt Taenuplant Gastroontsrolaji_ Eouehe RegdNo 16200 And Trarisplant Hrpatatqusi 640 'For 2380 Tt Extn appoinmond 40051142 Emou Oh bontuon I0 an dorpolavetnmall com am 7107778890
+Q Apolle arunoinnnologv
+e4le/u
+Wu Dm So Evee I7 MY tonce rn
+TFus u % inkoom ~#at Mr- C   @Amuel blyr | Male @ suunty adumudttad undut Cal Wnh Tp No: 367S88 ny4 Vz & Ustunly wxdrgeisy  tualil wn CU swves Rpin toth Mbds (ALyy Msi abxtexe sth Axftabon  frunsnia ) - fuh reed Maypllal &-lo recovyf T; xt abut &egs  1/ lonpub and Kudly do-ba   heedlfal Jikr @ukis Yau NAVEEN POLAVAEAPU ~CP L Ram CCS Corjntt TroN Rat m457a Apoilo koanly #teaake m4*
+@PPO HAS2 Avo5Ha Cy Cois Qutled Hnt Hdenhad S00 098 601 2+01 Ibnd 258 106s Fps+91-M-2380c05z acpiauixy@altosaiescon Ilotktktyson Ou""ens0Oo5d xahrtty gide 4Hirt axtaattheitytya",375,827,57,146,1.7253,2.5088,0.1042
+10.jpg,10,PaddleOCR,paddle,enhanced,True,3.9713,"medical certificate 2021-08-24 Apollo Hospitals, Institutes of Gastroenterology Mr. Ch. Samuel IP No: 367588 62 years Male Severe sepsis with MODS; likely liver abscess with aspiration pneumonia Liver Likely liver abscess with aspiration pneumonia Currently admitted under care and undergoing treatment in ICU. Further hospital stay needed for about 8-10 days for complete recovery.","Dr. Naveen Polavarapu
+Apoilo
+Reg.No.48206
+P 042360 7777 Extn4005/1142
+Emad :docpolav@gmail.com
+by
+He is cusserty unkeagoing
+V
+eupinatien preumenia ). te futhu needs repitl boy
+pr Complt. recoveuy Thu, int
+or about -lo day
+D
+and Kndly do4he needfu!
+Thoukie You .
+i NAVEEN POLAVARAPU
+CPLPFnpmC
+Corywnt
+Rgd
+ApHo
+OppO A52
+ akheattcy@apolohcsptis.com",375,333,57,57,0.7893,1.0,0.0625
+116.jpg,116,Doctr,doctr,none,True,6.3361,medical note Kamineni Hospitals Mr. Uday Kumar ID: 202114042 46 Male Mucormycosis of paranasal sinus with meningitis Paranasal sinus Patient is admitted in the department of ENT and is in urgent need of IV liposomal Amphotericin B injections for 2 weeks. Liposomal Amphotericin B 2 weeks IV injections,"KAMSNENI
+H OSPITALS
+&
+fatient
+namod
+Ma Udary Ruma
+46/M
+is
+admitted
+u
+Apartmunt
+%
+ENT
+witt
+1- 202114042.
+le is C
+Coee
+of our corny cOse
+of O fananasal
+Sinus witt
+meringity
+He
+i's
+ui
+usgeut
+0
+neod
+%
+(U
+liposomal Amplolcing
+lijeclione for
+2 weche kerdly do
+te needful.
+Thankiig You
+NA
+Dr.1 N.APOORVA MSSS. MSEITMEOA REDDY
+Reg. No. 100275
+Head Consultant and Neck ENT Oncosurgeon Head & Neck (RCS. Surgery UK)
+L.B.Nagar
+Kamineni Hospitals. L.B. Nagai, Hyd-68.
+24022277 a 24022222 Hyderabad e-mail: - 500068. T.S. (INDIA) Ph:39879999, 24022272
+kamineni@kamineniorg
+wwkamneninoptals.com",298,550,48,101,1.3188,2.0,0.4
+116.jpg,116,EasyOCR,easyocr,none,True,6.8648,medical note Kamineni Hospitals Mr. Uday Kumar ID: 202114042 46 Male Mucormycosis of paranasal sinus with meningitis Paranasal sinus Patient is admitted in the department of ENT and is in urgent need of IV liposomal Amphotericin B injections for 2 weeks. Liposomal Amphotericin B 2 weeks IV injections,"KAMXNENI A 0 $ T A [
+R
+Ratent nGmad Ka Udcu Lumo ^ 46|~ Ls odnu td u dhatrut c ENT Will 2021/4013 Ie 6s Coa Iu (ss ""Letzz ep baranosa  Giu menr{ t He u8h head (U Gfosomal Amk Glscuc R bieclon < Lox weele kudk 4 nleo (abis _ Yec k n Dr N.APOORVA REDDY Re; Na 100275 MunUr Keid End Nect Oncoiutgeon (Rcs,Uki Centuttent ENT Hezd = Ne:' Sunjery B Nagar raminen] Hoso (als LeNagaiRyc-68  24022277 24022222 = Ozzderabad - 500068,TS (INDIA) 0-mail; Kamineni@kapiner?0r99879998324022272_ Ka kaminenihospilals com",298,469,48,91,1.1644,1.8542,0.1143
+116.jpg,116,PaddleOCR,paddle,none,True,3.8841,medical note Kamineni Hospitals Mr. Uday Kumar ID: 202114042 46 Male Mucormycosis of paranasal sinus with meningitis Paranasal sinus Patient is admitted in the department of ENT and is in urgent need of IV liposomal Amphotericin B injections for 2 weeks. Liposomal Amphotericin B 2 weeks IV injections,"KAM&NENI
+ropppo9
+ENTWi1D202114042
+of  paanasal sinus will
+menineitHe is wi wogeut
+O
+Hdo
+neodhw
+hankei
+Dr.N.APOORVA REDDY
+Reg.No.100275
+Head and Neck Oncosurgeon (RCS.UK)
+Consultant ENT Head & Neck Surgery
+L.B.NagarHyderabad-500068.T.S.INDIAPh:39879999.24022272
+amineni Hospitas.L.B.Naga.Hyd-68",298,288,48,50,0.7987,1.0417,0.1714
+116.jpg,116,Doctr,doctr,enhanced,True,6.4093,medical note Kamineni Hospitals Mr. Uday Kumar ID: 202114042 46 Male Mucormycosis of paranasal sinus with meningitis Paranasal sinus Patient is admitted in the department of ENT and is in urgent need of IV liposomal Amphotericin B injections for 2 weeks. Liposomal Amphotericin B 2 weeks IV injections,"KAMSNENI
+H OSPIT - A - L
+-K
+Patent
+namod
+Ma Uday humay
+46/M
+is
+admitted
+un Sartmut
+g
+ENT
+wi t
+r 202114042.
+He is 6
+Cose
+of mucoamysas
+of @ panrosal
+Sinus wittl
+meringits -
+He
+is
+Li
+uagent
+-
+0
+nead
+* )
+tu
+liposomol Ambhoasaing
+for
+2 weale
+do
+ijpcione
+kurdly
+He needful
+Thankaig You
+Ah
+De.N. APOORVA wMu REDDY I-
+Reg Na 100275
+Head and Neck Ontouurgeon (RCS. UK)
+Connuitant ENTI Head & Nesk Surgery
+L.BNagar
+Kaminen Hospitals, LB. Naga. Hyd-68
+24022277 a 24022222 Hyderabad e-mait: - 500068. TS. (INDIA) Ph:39879999,
+kamineni@kaminen.org
+24022272
+wwwkaninerinosptalscom",298,533,48,98,1.2584,1.9375,0.3714
+116.jpg,116,EasyOCR,easyocr,enhanced,True,6.8072,medical note Kamineni Hospitals Mr. Uday Kumar ID: 202114042 46 Male Mucormycosis of paranasal sinus with meningitis Paranasal sinus Patient is admitted in the department of ENT and is in urgent need of IV liposomal Amphotericin B injections for 2 weeks. Liposomal Amphotericin B 2 weeks IV injections,"KAMRNEN H 0 , $
+Ratent nomed Ka Udau Lumou^ 66|k L admi ttd 6 axhcb Ent tl ll t> 2ozlfyol? Ite {4 Cesll Rusotr-lZlean kadnoaal Stnl 6 He (s L mani78  uxn head 3 lposomod Abl kobsuinR ""ictionz 2 weak kuda neo ~abis Yex K-lc Dr N. APOORVA Repdy Ma Neet cncownecn {AcS.Ua Rrn: #a 100273 Rehen Hospield, LB Manz Krd-& coanttnx EKT Hxad _ Nr &rrent 2002228,Nag Nagar  24022222 0 -ai: Ozxleabad - 500068 TS (INDIA) kamineni@kamincnor? Pt39879939, 24022272 wF kaminenihospilals com",298,443,48,86,1.1107,1.7708,0.0857
+116.jpg,116,PaddleOCR,paddle,enhanced,True,3.9701,medical note Kamineni Hospitals Mr. Uday Kumar ID: 202114042 46 Male Mucormycosis of paranasal sinus with meningitis Paranasal sinus Patient is admitted in the department of ENT and is in urgent need of IV liposomal Amphotericin B injections for 2 weeks. Liposomal Amphotericin B 2 weeks IV injections,"KAM$NENI
+HOSPITAL
+atiert
+named
+Ma Uday
+M  admittd u datm
+ENT
+-20214042
+e is a
+menrgit. He 1s ii uageu
+1u bposomoD AmphowunB
+need
+Meclione
+2 Weels
+Cendly
+D.N.APOORVA REDDY
+Rg.100275
+.
+HoW md Nect Cncowrgeon (ACS. UK)
+CENTHN
+B.NagarHyderabad-500068.T.S.ND!APh39879999.24022272
+Kaaneni Hospitas, L.B. Htaga. Hyd-6",298,299,48,57,0.8154,1.1458,0.1714
+125.jpg,125,Doctr,doctr,none,True,6.3168,,"Mob.:9899874855
+Dr.7 Talat Agig
+M.B.B.S.(Delhi)
+CLINIC:1430, Qasimjan Street, Ballimaran.Dehi-1100060 Tel.: 23928493
+e-mail: azizdlinic@hotmail.com
+18-8-1
+Ref. No.
+Date: -
+Medical
+Cen heoli
+ri
+Ahorl
+Jue i
+to cehly
+unde Signalres
+Shecba Malie
+/
+U 5
+belong
+i o
+Hallmncous
+given
+9
+usts
+Tolorpe
+Schalice
+Lone. 9
+Oric anse
+Unor nry
+Lr
+bedis
+suny
+Campli
+m
+a
+le
+18-8-18
+to 18-0-10
+3mo nlh
+rr
+Dr.
+/
+Sheeko
+TALAT A7IZ
+Regd.No. MCT M.BB.S. 4809
+agnobes)
+1430, Dasimjan St.
+Balhmharan Delhi-6
+*VACCINATION * NEBULISER *LAB FACILITIES: COLLECTION CENTER * EAR & NOSE PIERCING
+Resl-N-39.TAJENCLAVE Geetacolony, Delhi-110031",0,576,0,112,1.0,1.0,0.0
+125.jpg,125,EasyOCR,easyocr,none,True,6.9916,,"Mob 9899874855
+DTalt Arz KD.B.5 (Delhl) CLINIC : 1430,Qasimjan Street Ballimaran, Delhi-110006 Tel : 23928493 e-mail: azizclinic@hotmail  com 18 SL) Dale Ret No Me AcJJ 2 , hcosda
+N- Ju + cekh Lbex Loz S' Sheeba MoLuc ~xh-y (21& aivex hJo ) +oi Scl-all- Ltl Ixtk : 9 Uw $r 14 Ue (sk G1 0~~ L Ca-Mi bao   2 18-8-8 Lo (8-(1-10 2m6 n Sheebe Dr: TIALAT AZIZ Regd /No. MCi 4809 M.BIB.S Jnalu) 1430 Bazo prsn Deils_ Delhi-6 'VACCIMTION # NERULISER #LARASIHTEEION CENTER *EAR & NOSE PIERCING Resi:N-303,TAJENCLAVE, Geelacolony, Delhi-110031",0,486,0,103,1.0,1.0,0.0
+125.jpg,125,PaddleOCR,paddle,none,True,3.9138,,"Mob.:9899874855
+Dr.Talat Azig
+M.B.B.S.(Delhi)
+CLINIC1430QasimjanStreetBallimaranDelhi-110006 Tel:23928493
+e-mail: azizclinic@hotmail.com
+Date8-8-1cD
+Rel.No
+Meoico cemhcoli
+Sheebe Moli,Lmoe Srgnoae
+qiven kelog
+Protyee
+Scealcewt
+Dr.TALATAZIZ
+Sheeba
+RegdNo.MC1A809
+M.BB.S
+1430,Qasijan St.
+Baltimaran Delhi-6
+FACILITIES:
+ResiN-303TAJENCLAVE.Geeta colony.Delhi-110031",0,356,0,55,1.0,1.0,0.0
+125.jpg,125,Doctr,doctr,enhanced,True,6.3944,,"Mob.:9899874855
+Dr.Talat Agig
+MD.B.S.(Deni)
+CLINIC:1430, Qasimjan Streel, Ballimaran, Delhi-110006 Tel.: 23928493
+e-mail: azizdinic@hotmail.com
+18-8-1)
+Rel. Na. wwetivnweasows
+Date :
+HRURRIS 44em
+Medtca
+Cem headi
+Hor Mi
+Juc i
+to ceth
+uhda Sigrabres
+Sheoha Malie /
+i
+belong
+i o
+toloonpliou
+given
+Trotopee
+9
+S'cliahto
+wth
+9
+Lmne.
+Orse ans - t
+Unar ny
+Ler
+bed-
+A Serng
+Compli
+t
+le
+18-8-18
+to (8-0-10
+3mo whs
+mm
+Sheelg
+Dr. TALAT AZIZ
+/
+1
+Regd./No. MC14809 MBB.S
+( bignahe)
+1430, Qasimian St. AC
+Bahwharan Delhi-6
+*VACCINATION * NEBULISER *LAB FACILITIES COLLECTION : CENTER * EAR & NOSE PIERCING
+Real:N-303, TAJENCLAVE, Geelacolony, Delhi-110031",0,597,0,114,1.0,1.0,0.0
+125.jpg,125,EasyOCR,easyocr,enhanced,True,7.2556,,"Mob'8899874855
+DTalt Ai 4DBs [Denw))
+CLINIC:1430, Gasimjan Streel Callimgren,Delh"" /10008 Tel: 23928483 #-mpl; : 'azlzclinic@hotmalcom Dale : 18 Ennn 8- Ll) Aet Ma_ HttrALattten Tz atcJ 2-h hceda N- Ja 6 4 ceth Lhox Sheala Mo_lu Lmo = [~Szx"" (21e bJo-} 4 0 ta Aven Ln Iyotox_e Sclallo 9 Uw Lr w Lme n6 Gw ~ ConMi beD+ 4MA 18-8-18 6(8-U-1Q 9w6 nLa 2 Sheeba Dr: TAALAT AZIZ Regd MBB$ No. MC7 14Jo. pasuonain St 48094 / stb) Balnharan Delhi-6 'VCCIMATION #NEBULISER *LALCSHTCEON CENTER_ EAR & NOSE PIERCING Rotl:NV3n3, TAJENCLAVE, Godlacoin, Delhi-/10031",0,504,0,101,1.0,1.0,0.0
+125.jpg,125,PaddleOCR,paddle,enhanced,True,4.0398,,"Mob:9899874855
+Dr.Talat Azig
+M.D.B.S.D
+CLN/C1430QasimjanStreetBallmaranDehi-110006 Tel: 23928493
+-ma:azlzclinic@hotmail.com
+Dato : 18 - 8- 1.5)
+ReNa.
+Meaca (eh hced
+F
+Sheeba Moliu , LMo Srqnns
+0 n
+Qiven helonj
+eTO S
+Comi lee.
+Surta
+18-8.18
+t8-)-10
+Dr. TALAT AZIZ
+M.BB.$
+Regd.No.MC1A809
+1430. Qasjan St
+Banaran Delhi-6
+FACILTES:
+RsN-303TAJENCLAVEGeacoonyDlhi-110031",0,344,0,65,1.0,1.0,0.0
+16.jpg,16,Doctr,doctr,none,True,6.1339,medication chart Pain Instruction mentions 4 hourly pain. Paracetamol 1 g QDS Route PO; 4 hourly pain,"viedicine
+PARACET - AMOL
+Dose
+Route tart date Frequency
+9
+PO
+HIOVA QOS
+bignature
+17 CANR
+Max dose in 24 hrs
+Bleep 234 aIIC No. 1234564
+supply
+alarmacy
+pecial instructions/directions
+Check
+HOURLY
+Supply
+aepis
+PAIN
+Medicines Reconciliation (circle)
+No change
+increased
+Decreased
+vew
+dose
+dose",99,285,17,45,2.2121,2.5294,0.3077
+16.jpg,16,EasyOCR,easyocr,none,True,5.1314,medication chart Pain Instruction mentions 4 hourly pain. Paracetamol 1 g QDS Route PO; 4 hourly pain,Miedicine AC AcETAmol uar Roul Start dalc Frcolcn Ia HAh Siualue Tale C4 Jfns Klccn GMC No. 42427 4 € spedidiinstructiangdirccicns HCLLH PATA Mcdicinc: Rcrancihation (crcle) chanae Indeased Decreused Ner,99,197,17,29,1.5253,1.6471,0.0769
+16.jpg,16,PaddleOCR,paddle,none,True,3.5664,medication chart Pain Instruction mentions 4 hourly pain. Paracetamol 1 g QDS Route PO; 4 hourly pain,"Medicin
+PARACEAMOL
+Dose
+Route
+Start date
+Frequency
+SOO
+Signature
+DedNR
+Max dqse in 24 hrs
+Bleep3GMC No.5
+b
+Special instructions/directions
+woply
+4HORLY
+PAAN
+Happly
+Sapply
+Medicines Reconcillation (circle)
+No change
+Degreased
+New",99,226,17,34,1.6667,2.0,0.0769
+16.jpg,16,Doctr,doctr,enhanced,True,5.9743,medication chart Pain Instruction mentions 4 hourly pain. Paracetamol 1 g QDS Route PO; 4 hourly pain,"Medicine
+PARACE TAMOL
+Doa
+Koute an dabe Frequancy
+la
+ao
+HIOt 005
+argnature
+GCOAR
+Mac sgpe i 24 hrs
+-
+Blep 234 aML D 234567
+1 C
+peou mstructoronsarrections
+ack on
+A HOMLY
+PRIN
+Medicipes Recondllation (drde)
+No change
+ingeased
+Decreased
+New
+dose
+dose",99,244,17,43,1.8889,2.4706,0.0769
+16.jpg,16,EasyOCR,easyocr,enhanced,True,5.1312,medication chart Pain Instruction mentions 4 hourly pain. Paracetamol 1 g QDS Route PO; 4 hourly pain,Mtdldhaa PALAc=TAxoL Don Routa Star dabt 4a Ain iotiutt P4n2 K  4 hzaho peNP 034sucNO 4si1 40 Sptot utrucpomiCinatianC HCuaLH paN) Cm4i4.24ibonehab cnanot ing828 Dedearca,99,168,17,27,1.2626,1.5294,0.0769
+16.jpg,16,PaddleOCR,paddle,enhanced,True,3.5819,medication chart Pain Instruction mentions 4 hourly pain. Paracetamol 1 g QDS Route PO; 4 hourly pain,"Mtdikr
+PARACEAYOL
+Dosa
+10
+Route
+Startdabe
+Signature
+A dq In 24 Iw
+BlpGMCN.45
+Spnstrtonecon
+A
+MdHacondatonde
+No change
+Incgeased
+Decgeased
+New",99,141,17,22,1.0808,1.2941,0.0769
+17.jpg,17,Doctr,doctr,none,True,6.2742,prescription 2022-10-12 The White Tusk Mr. Sachin Bansare 28 Male Augmentin 625 mg 1-0-1 5 days After meals Enzyflam 1-0-1 5 days After meals Pan-D 40 mg 1-0-0 5 days Before meals Hexigel gum paint 1-0-1 1 week Massage,"Smile Designing Teeth Whitening
+THE WHITE TUSK
+Dental Implants |General Dentistry
+e0/whitetuskdental
+12/0122
+MSachin Bansage
+281m
+Rx, -
+Tab. Augmentin 62503
+aftes
+meols 1
+( 1 0
+(
+XSday
+I Tab. Enzflam
+I - -
+O -
+l
+X Sdays
+ParD 40mg
+-
+CTab.
+befpce
+medls
+L
+I
+O
+0 XSolays
+Adv:
+Hexigel gum paint
+massage
+l
+I
+Xlweek
+A
+Sait
+Ph: +91 8108112511 Web: www.thewhitetusk.com Email: info@thewhitetusk.com",217,365,50,67,1.1244,1.18,0.3548
+17.jpg,17,EasyOCR,easyocr,none,True,8.4317,prescription 2022-10-12 The White Tusk Mr. Sachin Bansare 28 Male Augmentin 625 mg 1-0-1 5 days After meals Enzyflam 1-0-1 5 days After meals Pan-D 40 mg 1-0-0 5 days Before meals Hexigel gum paint 1-0-1 1 week Massage,"Smile Designing Teeth Whitening THE CJHITE TUSK Dental Implants General Dentistry @O/whitetuskdental 12h/22 CLx ' Sachn LSansoae 28/m R Tab - Aujnenturi 6 25 n A d8 Tal Enzzlrn Sdaxs
+{Tab PanD 4 Oxj #afee 0 xsdax
+Adu: Hexiqel Paun 1 Turn (essaqe Lweek
+Ph: +91 810811251I Web: www.thewhitetusk com Email: info@thewhitetusk.com",217,312,50,56,1.0138,1.06,0.1613
+17.jpg,17,PaddleOCR,paddle,none,True,3.9137,prescription 2022-10-12 The White Tusk Mr. Sachin Bansare 28 Male Augmentin 625 mg 1-0-1 5 days After meals Enzyflam 1-0-1 5 days After meals Pan-D 40 mg 1-0-0 5 days Before meals Hexigel gum paint 1-0-1 1 week Massage,"Smile Designing|Teeth Whitening
+THE COHITE TUSK
+Dental Implants General Dentistry
+/whitetuskdental
+Mi.Sachii Bansgae
+1210/22
+20/m
+R
+Tab.Auqmentn 62sm
+afe
+meals
+Tab
+Enzoflamn
+befoce
+meals
+Adv: Hexigel gum pant
+Massage
+--1x1week
+Ph:+9181o8u251|Web:www.thewhitetusk.com|Email info@thewhitetusk.com",217,289,50,45,0.9217,0.94,0.1935
+17.jpg,17,Doctr,doctr,enhanced,True,6.1465,prescription 2022-10-12 The White Tusk Mr. Sachin Bansare 28 Male Augmentin 625 mg 1-0-1 5 days After meals Enzyflam 1-0-1 5 days After meals Pan-D 40 mg 1-0-0 5 days Before meals Hexigel gum paint 1-0-1 1 week Massage,"Smile Designing Teeth Whitening
+THE CHITE TUSK
+Dental Implants |General Dentistry
+e0/whitetuskdental
+12/0l22
+MSachin Bansaae
+281m
+Rx,
+Tab. Augmentin 625ng
+afEs
+meals
+( 1 0
+(
+XSdays
+Tab. Enzflam
+I 1
+o - -
+l
+X Sdays
+CTab.
+PanD 40mg
+befpee
+medls
+L
+I
+O
+0 XSdays
+Adv:
+Hexigel gum paint
+massage
+[
+0 I
+X1week
+i
+I
+dut
+Ph: +91 8108112511 1 Web:www.thewhitetusk.com Email: info@thewitetusk.com",217,364,50,68,1.1152,1.16,0.3548
+17.jpg,17,EasyOCR,easyocr,enhanced,True,8.5482,prescription 2022-10-12 The White Tusk Mr. Sachin Bansare 28 Male Augmentin 625 mg 1-0-1 5 days After meals Enzyflam 1-0-1 5 days After meals Pan-D 40 mg 1-0-0 5 days Before meals Hexigel gum paint 1-0-1 1 week Massage,"Smile Designing Teeth Whitening THE CJHITE TUSK Dental [mplants General Dentistry @O/whitetuskdental 1eolz 22 02 ' Sachn LSans0s& 281m R Tab- Aujmentui 6 28 m SL X Tl . Enzplm 0 _ ( X Sdaks
+{Tab - PanD 4 owj Keft 0 xSdbx
+Adv: Hexiqel &ur Pan X Tiazae 5 Lweek
+Ph: +91 8o81zsu | Web: www.thewhitetusk com | Email; info@thexhitetusk.com",217,308,50,58,1.0184,1.08,0.1935
+17.jpg,17,PaddleOCR,paddle,enhanced,True,3.8962,prescription 2022-10-12 The White Tusk Mr. Sachin Bansare 28 Male Augmentin 625 mg 1-0-1 5 days After meals Enzyflam 1-0-1 5 days After meals Pan-D 40 mg 1-0-0 5 days Before meals Hexigel gum paint 1-0-1 1 week Massage,"Smile Designing|Teeth Whitening
+The ChIte TusK
+Dental Implants| General Dentistry
+@/whitetuskdental
+M.Sachi Bensgae.
+M.
+Tab. Arqmertrr
+625
+x 5 d
+fenD LOn
+m Pant
+M88s0qe
+XLwee
+Ph: +91 81o8n25n1| Web: www.thewhitetusk.com | Email; info@thewhitetusk.com",217,237,50,39,0.8065,0.92,0.1613
+19.jpg,19,Doctr,doctr,none,True,6.0288,medical note,"Patient
+Age:
+dex:
+Address:
+Date:
+26 /202
+de X A
+Ke
+Li - 1
+lerlp
+Io7
+palunt
+le
+Nnol
+-
+guun cul
+/
+olue to
+rullyrs
+Car
+zdd
+womgen
+Nlezutal kufs
+beevdleyt C 4/23/20u
+uuol
+molole
+Patut
+9 luerq pt -",12,179,2,39,14.0833,19.5,0.0
+19.jpg,19,EasyOCR,easyocr,none,True,5.449,medical note,"Patlent
+Age: Date: 4 7poz
+Address: R Ylc L+ eex7 Xes7 0a7yq Aur c Re Ano& ogue Fo ADoi CaL 2 2 tok ln Exc- C ""4/2]ev4 uo&y ~noUcl (Ja4 Collzq| (v",12,134,2,35,10.4167,17.5,0.0
+19.jpg,19,PaddleOCR,paddle,none,True,3.5925,medical note,"Patient:
+Address:
+Dat
+R
+Ho
+tol wotol
+fpbrarm",12,42,2,8,2.9167,4.0,0.0
+19.jpg,19,Doctr,doctr,enhanced,True,5.9636,medical note,"Patlent
+Sex:
+Address:
+Date:
+Re/207
+A
+X
+Me Li 7
+lerwb
+I7
+Patun
+guur cul /
+Lr
+senal E
+oue to
+rullyri
+Car
+2od
+woige
+Nlezetal sufs -
+beevdut / C 04/2/20u
+-
+suoh
+walolu
+-
+otis
+3 lukq pat 4",12,170,2,39,13.3333,19.5,0.0
+19.jpg,19,EasyOCR,easyocr,enhanced,True,5.497,medical note,"Fatent _
+Age_ Dale_
+Addrer: [zo3 R kj 1 + eexz 3ez7 (zs 2r Anol M Dur 6z oue Fo mulozis Cal 2 & 2 mtora Exc+chji) C ko& uolyoe (Jax; colirq Aeftt",12,130,2,31,10.0833,15.5,0.0
+19.jpg,19,PaddleOCR,paddle,enhanced,True,3.5686,medical note,"Patlent:
+Address
+1202
+: Li H
+howy",12,30,2,6,2.0833,3.0,0.0
+23.jpg,23,Doctr,doctr,none,True,5.8748,prescription 2011-05-24 Gastritis; abdominal pain; headache Gastritis for 1 week; abdominal pain; headache for 3 days Ranitidine 150 mg BD 5 days Paracetamol 500 mg TDS 5 days,"24
+Gastritis X Iweek.
+Pain Abolomen
+sed 0h ford untake
+36
+Headache X 3 day
+Rue
+T. Rantdene
+BD X
+5bays
+Isony
+TDS >
+P -
+T. Parnectamol
+50077
+I",171,133,30,28,0.6608,0.8667,0.3333
+23.jpg,23,EasyOCR,easyocr,none,True,5.4025,prescription 2011-05-24 Gastritis; abdominal pain; headache Gastritis for 1 week; abdominal pain; headache for 3 days Ranitidine 150 mg BD 5 days Paracetamol 500 mg TDS 5 days,"2 4 MAT
+Gabus
+wuk
+Pae #oolom~ Aitd fvrl stake
+36
+Hea dechu
+oc
+Ran'x""dleie ISom B5
+5 bars
+TDs
+5 >
+Paracel-am6 ( S60",171,108,30,26,0.7018,0.9667,0.0952
+23.jpg,23,PaddleOCR,paddle,none,True,3.4666,prescription 2011-05-24 Gastritis; abdominal pain; headache Gastritis for 1 week; abdominal pain; headache for 3 days Ranitidine 150 mg BD 5 days Paracetamol 500 mg TDS 5 days,"Gasbil's x Iwuk
+Pain Abolomen
+I'sd on ford itahce
+36
+Headache X 3 da
+BX
+T.Parncelamol 500m
+TDS5",171,95,30,21,0.6374,0.9,0.1429
+23.jpg,23,Doctr,doctr,enhanced,True,5.8492,prescription 2011-05-24 Gastritis; abdominal pain; headache Gastritis for 1 week; abdominal pain; headache for 3 days Ranitidine 150 mg BD 5 days Paracetamol 500 mg TDS 5 days,"LA HAI
+Gautsd's * twek.
+Pain Htolovneny
+Peur an ford intake
+36
+Headashe X % any
+Res
+T Ranadris
+BP 
+sDays
+ISOTO
+Ths > hoy
+T. Parwect-amat 50077
+-",171,133,30,27,0.7368,0.9667,0.0476
+23.jpg,23,EasyOCR,easyocr,enhanced,True,5.3418,prescription 2011-05-24 Gastritis; abdominal pain; headache Gastritis for 1 week; abdominal pain; headache for 3 days Ranitidine 150 mg BD 5 days Paracetamol 500 mg TDS 5 days,"24 #4t
+Gactrer s wlek Yatn #edorten"" T torol sntahe Hedechl AnK
+36
+Ran'adxk 15077 B1 ~tt Patteelas e TnA 56e T 5od",171,110,30,24,0.6784,0.9667,0.0476
+23.jpg,23,PaddleOCR,paddle,enhanced,True,3.4689,prescription 2011-05-24 Gastritis; abdominal pain; headache Gastritis for 1 week; abdominal pain; headache for 3 days Ranitidine 150 mg BD 5 days Paracetamol 500 mg TDS 5 days,"24NA
+Gasise's * 1wuk.
+Yai Aoolonen
+Aeed on Forri xitared
+36
+Headachy X 3do
+T. Rarut'du 1somy
+T.aem",171,94,30,20,0.7193,1.0,0.0
+28.jpg,28,Doctr,doctr,none,True,6.0175,prescription 2021-05-16 Nanavati Super Speciality Hospital Mr. Subhash Kumar Kulshreshtha IP No: 21/4643; UHID: 896539 73 years Male Liposomal Amphotericin B 50 mg per vial; total 300 mg/day 6 vials/day Injection,"Nanavati
+Super Speciality Hospital
+a passion for healing...
+IP No: 21/4643 UHID : 896539
+Date:
+Mr. Subhash Kumar Kulshreshtha
+73 Yrs/Male EICU/EICU1
+Dr. Amol Anandrao Patil;ENT
+DOA: 16/05/2021
+B
+Aplotecin
+Ly
+Lipesomel
+bvials
+Songy
+(300gg)
+Dr. Balabhai Nanavati Hospital,S.V. Road, Vile Parle
+Mumbai 400 056. Tel: +91 22 26267500.
+(W),
+www.nanavatihospitalong
+Managed by Radiant Life Care",207,365,36,64,1.2609,1.5278,0.5882
+28.jpg,28,EasyOCR,easyocr,none,True,5.999,prescription 2021-05-16 Nanavati Super Speciality Hospital Mr. Subhash Kumar Kulshreshtha IP No: 21/4643; UHID: 896539 73 years Male Liposomal Amphotericin B 50 mg per vial; total 300 mg/day 6 vials/day Injection,"Nanavati Super Speciality Hospital passion for healing_
+UHID 896539 IP No; 21/4643 Mr, Subhash Kumar Kulshreshtha 73 Yrs Male FICUJEIQUI Dr . Arnoll Anandrao Patl;ENT DOA; [6/05/2021
+Date: Icho
+4 AMotcn 8 [ipesom"" SorJ 5bvial Js (30011)
+Dr; Balabhai Nanavati Hospital,S V; Road  Vle Mumbui J00 066 ""'@l: Parle (W); +91 2 20267500 www nanavatihospital-org Managed by Radinnt Life Care",207,360,36,65,1.256,1.6389,0.5588
+28.jpg,28,PaddleOCR,paddle,none,True,3.7831,prescription 2021-05-16 Nanavati Super Speciality Hospital Mr. Subhash Kumar Kulshreshtha IP No: 21/4643; UHID: 896539 73 years Male Liposomal Amphotericin B 50 mg per vial; total 300 mg/day 6 vials/day Injection,"Nanavati
+Super Speciality Hospital
+a passion for healing...
+Date b/20
+IPNo21/4643UHID896539
+Mr.Subhash Kumar Kulshreshtha
+73 Yrs/Male EICU/EICU1
+Dr.Amol Anandrao PatilENT
+DOA:16/05/2021
+Iy.yposom Aphotoin B
+sony
+Dbvinls
+(hRO0E)
+Dr.Balabhai Nanavati Hospital,S.V.Road, Vile Parle W
+Managed by Radiant Life Care",207,303,36,52,1.0048,1.3056,0.4118
+28.jpg,28,Doctr,doctr,enhanced,True,6.0667,prescription 2021-05-16 Nanavati Super Speciality Hospital Mr. Subhash Kumar Kulshreshtha IP No: 21/4643; UHID: 896539 73 years Male Liposomal Amphotericin B 50 mg per vial; total 300 mg/day 6 vials/day Injection,"1
+/
+Nanavati
+Super Speclality Hospltal
+a passion for healing.
+IP No: 21/4643 UHID : 896539
+Date:
+Mr. Subhash Kumar Kulshreshtha
+73 Yrs/Male EXOU/EICU1
+Dr. Amol Anandrao PattENT
+DOA: 16/05/2021
+B
+Aplotoicin
+Lj
+Lipesomel
+>bvials/d
+Sany
+C300gg
+-
+:
+Dr Balahhas Nanavati Hapilal,av Rond, Vile Parle
+a
+Mumbuy 400 oba. Tuli +91 a 26287500.
+(w),
+www.nanevashopitalong
+Mannged by Radlant Life Care",207,366,36,65,1.2802,1.5833,0.5294
+28.jpg,28,EasyOCR,easyocr,enhanced,True,6.0367,prescription 2021-05-16 Nanavati Super Speciality Hospital Mr. Subhash Kumar Kulshreshtha IP No: 21/4643; UHID: 896539 73 years Male Liposomal Amphotericin B 50 mg per vial; total 300 mg/day 6 vials/day Injection,"Nanavati Buper Specalty Hoapltel paeeion for healing .
+1 Not 21/4643 UHID 096539 M. subtesh Kumar Kukshretths P2 Yalae EOYEIQUI Dx Amal Anotereo PatrEMT DQ: 1640572021
+beelshrv
+EipooruAloh _ 8 Son 7bvinl 7sy (300=
+Dr Eikbhy Nenaau HaPiuL &V Road Mlle Parb (W), Mumbu 40 0b4 Tel; +01 % 20287m0 ""shanunatihospitelors Menrtud By Bedlent LID Cart",207,325,36,54,1.1787,1.4722,0.1765
+28.jpg,28,PaddleOCR,paddle,enhanced,True,3.7179,prescription 2021-05-16 Nanavati Super Speciality Hospital Mr. Subhash Kumar Kulshreshtha IP No: 21/4643; UHID: 896539 73 years Male Liposomal Amphotericin B 50 mg per vial; total 300 mg/day 6 vials/day Injection,"Nanavati
+Super Specality Hospital
+ passion for healing..
+PN21/4643UHID896539
+Mr.Subhosh Kumar Kulshreshtha
+73/1
+D.Amcl Anrao Pat
+DOA:16/05/202
+iysuonl Anphoteian
+Dr Balahha Nnan HpS RondV Parl W
+Manngd by Radlant Lf Car",207,216,36,37,0.7488,0.9444,0.2647
+30.jpg,30,Doctr,doctr,none,True,6.2516,prescription 2022-10-13 The White Tusk Ms. Fiza Mozawala 19 Female Phexin 500 mg 1-0-1 5 days Zerodol PT 1-0-1 5 days Stolin gum paint 1-0-1 5 days Colgate Plax mouthwash 1 week,"Smile Designing Teeth Whitening
+THE CHITE TUSK
+Dental Implants I General Dentistry
+e0/whitetuskdental
+13/10 2022
+Mefiza Mozawala
+19/F
+Px,
+Phexin
+soomg
+Cap.
+- -
+/ -0- /
+X Sdays
+Tab. Zeeoool
+PT
+I - O - - - [
+x5day
+Stol lun Jum painrt
+X
+/ - 0
+(
+Solays
+J
+Plx
+mouthwast
+Colgate
+1week
+Oeal B
+Pao 2 2000 N
+electaic beush.
+VN M
+Ph: +91 810811251I I Web: www.thewhitetusk.com Email: info@thewhitetusk.c6m",176,361,40,68,1.4034,1.525,0.3929
+30.jpg,30,EasyOCR,easyocr,none,True,8.8965,prescription 2022-10-13 The White Tusk Ms. Fiza Mozawala 19 Female Phexin 500 mg 1-0-1 5 days Zerodol PT 1-0-1 5 days Stolin gum paint 1-0-1 5 days Colgate Plax mouthwash 1 week,"Smile Designing Teeth Whitening THE CJHItE TUSK Dental Implants General Dentistry @O/whitetuskdental 13/o /2622 (Lg Fiza Mozawa_La I9 /F
+R Phexu Cp"" 500mj U_ X sduk Tab ZeeocloL PT S( X5 _ duxs
+Btobr  Jumn_ mt Sdak Pbx moub_was Coljate 41 week Oxl B Pxo 2 Zo6N electi c bus_ lul= Ph: +91 81081I2SII Web: www.thewhitetusk.com Email: info@thewhitetask.com",176,336,40,65,1.375,1.525,0.2143
+30.jpg,30,PaddleOCR,paddle,none,True,3.7614,prescription 2022-10-13 The White Tusk Ms. Fiza Mozawala 19 Female Phexin 500 mg 1-0-1 5 days Zerodol PT 1-0-1 5 days Stolin gum paint 1-0-1 5 days Colgate Plax mouthwash 1 week,"THE COHITE TUSK
+Smile Designing|Teeth Whitening
+Dental Implants|General Dentistry
+/whitetuskdental
+13/10/2022
+Ms.tiza Mozawnla
+19/
+R
+TabZeeoolol pT
+Colgate pbx mouthwash
+-lweek.
+lB P22000N
+electic beush.
+Ph:+91 81o8u251|Web:www.thewhitetusk.com|Email: info@thewhitetusk.c6m",176,266,40,41,1.1193,1.0,0.3571
+30.jpg,30,Doctr,doctr,enhanced,True,6.1315,prescription 2022-10-13 The White Tusk Ms. Fiza Mozawala 19 Female Phexin 500 mg 1-0-1 5 days Zerodol PT 1-0-1 5 days Stolin gum paint 1-0-1 5 days Colgate Plax mouthwash 1 week,"Smile Designing Teeth Whitening
+THE CHITE TUSK
+Dental Implants I General Dentistry
+eo/whitetuskdental
+13/10 /2022
+Me.Fiza Mozawala
+19/F
+Rx,
+Phexin
+soong
+Cap.
+-0- /
+X Sdays
+Tab. Zeeodol
+PT
+I I O
+- [
+x5day,
+tolin
+gum
+X
+punt
+/ 1 O
+Sdoye
+Plax
+mouthwash
+Colgate
+Lweek
+/
+Oeal B
+Pao 2 2000 N
+electaic beush.
+I
+Ph: +91 8r081125111 Web: www.thewhitetusk.com Email: info@thewhitetusk.com",176,355,40,67,1.3693,1.45,0.5714
+30.jpg,30,EasyOCR,easyocr,enhanced,True,8.6958,prescription 2022-10-13 The White Tusk Ms. Fiza Mozawala 19 Female Phexin 500 mg 1-0-1 5 days Zerodol PT 1-0-1 5 days Stolin gum paint 1-0-1 5 days Colgate Plax mouthwash 1 week,"Smile Designing Teeth Whitening THE CJHITe TusK Dental Implants General Dentistry @O/whitetuskdental 13/io /2o22 Ma-Fiza Mozauala I9 /F
+R Phexln Cp se0mj U _0 X SduK Tab . ZeeacloL PT 0 -= ( xS dats
+LBtolr &um_ ft X SdotK Cogjate Pl mouh_es 1 Week Okl B Pao 2 2pD66N electzic buL_
+Ph: +91 8ro8u25u1 | Web: www.thewhitetusk com|Email: info@thewhiteeusk",176,331,40,63,1.3352,1.425,0.2857
+30.jpg,30,PaddleOCR,paddle,enhanced,True,3.8413,prescription 2022-10-13 The White Tusk Ms. Fiza Mozawala 19 Female Phexin 500 mg 1-0-1 5 days Zerodol PT 1-0-1 5 days Stolin gum paint 1-0-1 5 days Colgate Plax mouthwash 1 week,"Smile Designing | Teeth Whitening
+the Chite tusk
+Dental Implants | General Dentistry
+@/whitetuskdental
+Ms.Fiza Mozawr
+SoQm
+exu
+P7
+Tab : Zeeoclol.
+8bm~Amow
+yaamt
+0kad B Peo 2 2oooN
+electic beush
+Ph: +91 81o8u2gu | Web: www.thewhitetusk.com|Email: info@thewhitett",176,246,40,40,1.0114,0.95,0.1429
+33.jpg,33,Doctr,doctr,none,True,6.2307,prescription P. D. Hinduja Hospital & Medical Research Centre Rahul 29 Male Fever or pain mentioned in medication instruction. Azee 500 mg 1-0-0 7 days Tusq 1 tsp Syrup Pan 40 mg 1-0-0 7 days Dolo 650 mg SOS For fever/pain,"P. D. HINDUJA HOSPITAL
+& MEDICAL RESEARCH CENTRE
+Veer Savarkar Marg, Mahim, Mumbai - 400 016.. www.hindujahospital.com
+CA me
+Rahul
+Y
+Am
+-
+400
+Azee
+Soom
+480
+T.
+K7 days
+I
+Syp
+Tusq
+1 trp
+C
+1
+Tlan
+To Ny
+T
+U 0
+BPS
+0
+7dayd
+I T:
+Dolo 650
+Sos for fewesl
+pain
+jn
+med
+OPD
+Sos
+C repootr
+oyal fluide
+ou Home doorstep services include: laboratory sample collection, nursing care, physiotherapy & doctor's",217,372,45,74,1.1797,1.3111,0.5294
+33.jpg,33,EasyOCR,easyocr,none,True,7.3188,prescription P. D. Hinduja Hospital & Medical Research Centre Rahul 29 Male Fever or pain mentioned in medication instruction. Azee 500 mg 1-0-0 7 days Tusq 1 tsp Syrup Pan 40 mg 1-0-0 7 days Dolo 650 mg SOS For fever/pain,"P D HINDUJA HOSPITAL & MEDICAL RESEARCH CENTRE Veer Savarkar Marg, Mahim; Mumbai 400 016. wwW hindujahospital com 0 m € Raku_
+An 400 480
+Azee 568 T=
+X + doxf
+Syp Tusq T Ran fo W
+tp
+ytd49 T Dalo 6so Sos fer #cer Yam i^ mesl opo Sof c repol
+8 8 5 9 8
+cxal Auuide
+are@Ilome doorstep services include: laboratory sample collection; nursing care, physiotherapy & doctor 8",217,348,45,69,1.1429,1.3778,0.3235
+33.jpg,33,PaddleOCR,paddle,none,True,3.8909,prescription P. D. Hinduja Hospital & Medical Research Centre Rahul 29 Male Fever or pain mentioned in medication instruction. Azee 500 mg 1-0-0 7 days Tusq 1 tsp Syrup Pan 40 mg 1-0-0 7 days Dolo 650 mg SOS For fever/pain,"P.D.HINDUJA HOSPITAL
+&MEDICAL RESEARCH CENTRE
+Veer Savarkar Marg,Mahim.Mumbai-400 016..www.hindujahospital.com
+NameRahl
+M
+An
+400
+480
+yhop++
+Syp Tusq
+Itsp
+t6
++7day8
+onlfluide",217,168,45,29,0.6267,0.8222,0.2353
+33.jpg,33,Doctr,doctr,enhanced,True,6.2493,prescription P. D. Hinduja Hospital & Medical Research Centre Rahul 29 Male Fever or pain mentioned in medication instruction. Azee 500 mg 1-0-0 7 days Tusq 1 tsp Syrup Pan 40 mg 1-0-0 7 days Dolo 650 mg SOS For fever/pain,"P. D. HINDUJA HOSPITAL
+& MEDICAL RESEARCH CENTRE
+Veer Savarkar Marg. Mahim. Mumbai - 400 016 - wWw hindujahospital com
+- a ml -
+Rahul
+Am
+-
+400
+Azee Soom
+480
+T-
+K7 dayf
+1
+Syp
+Tusg
+I trp
+T.lan
+1
+To my
+t
+O
+B9S
+(
+* 7dayl
+I T.
+Dolo 6S0
+Sos for fewesl
+pam
+1u
+jn med
+Op)
+Sus
+C rearta
+- - oral fluide
+T
+Home
+services nclde
+Cara
+doorutap
+laboratory sample codecton, nurung care phybotherapy & doctor -",217,360,45,72,1.1567,1.3778,0.3824
+33.jpg,33,EasyOCR,easyocr,enhanced,True,7.4729,prescription P. D. Hinduja Hospital & Medical Research Centre Rahul 29 Male Fever or pain mentioned in medication instruction. Azee 500 mg 1-0-0 7 days Tusq 1 tsp Syrup Pan 40 mg 1-0-0 7 days Dolo 650 mg SOS For fever/pain,"P D. HINDUJA HOSPITAL 6 MEDICAL RESEARCH CENTRE Veor Savarkar Marg: Mahim_ Mumbal 400 016 www hindujahospltal com Namt Raku_ 23
+An 400 480
+T: Azee 560m7 X + JoxK
+Syp Tusq T . Ran fo
+tp
+X
+T Dalo GSe Sos 4 frr Pcre 7 1 jA mel opo Sof 8 rebod 0 3 oxal tuid?  4 Cr@ Ilme - OOuop ses ncuth hbonon Manph coibcton Nuittd OMo phytrino tdy doct",217,321,45,69,1.0276,1.3333,0.3824
+33.jpg,33,PaddleOCR,paddle,enhanced,True,3.9224,prescription P. D. Hinduja Hospital & Medical Research Centre Rahul 29 Male Fever or pain mentioned in medication instruction. Azee 500 mg 1-0-0 7 days Tusq 1 tsp Syrup Pan 40 mg 1-0-0 7 days Dolo 650 mg SOS For fever/pain,"P. D. HINDUJA HOSPITAL
+& meDiCAL reSeArCh CeNTre
+Veer Savarkar Marg. Mahim. Mumbal - 400 016 - www hindujahospltal com.
+Namt
+Arr
+400
+480
+T. Azee Soo.
+usq
+WD
+Dolo 6s
+0457 / OPIP / 2009
+Sus
+ui d8
+ON
+opo
+We(ai Jlome ooonroo
+Aices nctuce tbonstory wmp cobecton, nurerrg care phytotherapy A doctor s",217,276,45,51,0.871,0.9778,0.2647
+5.jpg,5,Doctr,doctr,none,True,6.0011,prescription Crocin DS 4 mL 4 mL 4 mL twice,"epuadrer -
+100)
+tuoce
+onia
+(PEDIATRIC
+int Pediatrici
+Xo
+gs: 30 p.m. 10.30a (Mo
+00 am.-1
+7119
+Syp
+Croln
+D8-
+Ym
+14-9ly
+bolylg)
+Mad
+98cu
+98
+J
+102
+Poeblal -P
+Imd
+YP
+-
+ho - 16 luy
+Terb Clad /
+- 1 duph
+Ce rroouer
+Yml
+heice
+(00)
+o",43,202,10,48,3.9302,4.8,0.0
+5.jpg,5,EasyOCR,easyocr,none,True,6.6673,prescription Crocin DS 4 mL 4 mL 4 mL twice,"Rsx esxodK (00 ) tw"" Ce
+Jonia  (PEDIATRIC Pediatricia 410.30 g5 30 pm i(Mo 0O am:
+alta (4.4 Ia 78cu1 98 1o 2
+Sxt Gquu b& - Yw K5 4 w) ex oxtau ~p YmQ ko ( 6 lud) Jeb Cay"" &taolok 4 wQ +u6 (700 )
+Aady",43,177,10,47,3.5116,4.4,0.1667
+5.jpg,5,PaddleOCR,paddle,none,True,3.8985,prescription Crocin DS 4 mL 4 mL 4 mL twice,"3
+45
+pooder
+tuice0
+onia
+(PEDIATRIC
+nt Pediatrici
+gs10.30a
+30p.m.Mo
+.00 a.m.1
+b)|t
+Syp
+B-ynp
+mon
+h|b-n
+Rmn)oy
+Aad
+98cu
+98
+102
+Owh
+a-p
+b6y
+Onh",43,137,10,37,2.6279,3.7,0.0
+5.jpg,5,Doctr,doctr,enhanced,True,6.235,prescription Crocin DS 4 mL 4 mL 4 mL twice,"-
+epuadrer
+(00)
+fuice
+ImO
+(PEDIATRIC
+rd Pediatricke
+to
+-
+gs : 10.30 a
+(Mo
+-
+30 00 pm. am. - 1
+
+7119
+- M
+COUM 
+D&-
+4 - nf -
+* 14-9lg
+bs - (4 hy
+Aad
+98cur
+98
+J
+loz
+yp Peblal J
+4mo
+bol6u luy
+
+Terup Chadt
+1
+ a
+epaohar
+4 - ml
+1 tuice
+(o0) *
+i",43,198,10,51,3.814,4.7,0.3333
+5.jpg,5,EasyOCR,easyocr,enhanced,True,6.6471,prescription Crocin DS 4 mL 4 mL 4 mL twice,"3s ywdssv (0"" ) tCe
+@o ((PEDLATRIC Pediatrica b5 10.20 _ 30 Pu (o Io am.
+#lt9 (4-9 ""a 78cu, 9& 102
+GQuli B _ Ymp 8o (4 wd) [&Lu R ymQ k5 6 lud ) Jeb cax"" et_aclak_ 4wQ tucs ((0-02",43,151,10,42,2.8837,4.0,0.1667
+5.jpg,5,PaddleOCR,paddle,enhanced,True,3.786,prescription Crocin DS 4 mL 4 mL 4 mL twice,"d.mf
+tnia
+PEDIATRIC
+t Pediatric
+:10.30a
+30pm.M
+00a.m.1
+79
+D -
+NOLLM
+14.q
+m585
+98
+10
+t- MYyoe)
+emb",43,92,10,24,1.6512,2.4,0.0
+58.jpg,58,Doctr,doctr,none,True,5.9676,prescription 2019-08-28 Hb 9.8 g/dL; TLC 28000; ESR 25; Typhidot IgM negative Cefolac 5 ml/100 mg; 3 ml BD 7 days Syrup RB Tone Kid 5 ml/80 mg; 2.5 ml OD 2 months Syrup Wikoryl 3 ml 3 ml 3 days Syrup,"2e/ogl1
+- Llb
+geglab
+: 28600
+TZC
+&
+P68 L20
+- Lyr Cefelac / (Sml/100 ong
+E5K-25
+3ml
+BD
+x7day
+o
+MOVLMENN
+Pevd
+MEHE4
+: 3:31
+-
+RB Terul kid
+le
+Neg
+(Sml/song
+m -
+2-5ml
+OD
+Byplidotly
+x2menth
+-
+y witorye
+3ml
+3m/
+x -
+3doy
+-",194,190,49,43,0.7371,0.9388,0.2353
+58.jpg,58,EasyOCR,easyocr,none,True,6.7634,prescription 2019-08-28 Hb 9.8 g/dL; TLC 28000; ESR 25; Typhidot IgM negative Cefolac 5 ml/100 mg; 3 ml BD 7 days Syrup RB Tone Kid 5 ml/80 mg; 2.5 ml OD 2 months Syrup Wikoryl 3 ml 3 ml 3 days Syrup,"78t9/$ / | >""
+48 /8/12 ~J-8& | Ab 98906 TLC '68 +zo 25"" esk MGV Lmch} pcvk m ( H ( 4 8.3 / fle n-Ni Typkidet ) Ly
+S4"" Cetelae ( Em'/iord) 30 | 6 D X 4db
+RB Ten ki (so_ !Jgomi 2-Sm [ 0) X 2 mBrHAR
+WiLosxe 2 ml 3 < / X 3 &a",194,177,49,53,0.7062,0.9592,0.2059
+58.jpg,58,PaddleOCR,paddle,none,True,3.8373,prescription 2019-08-28 Hb 9.8 g/dL; TLC 28000; ESR 25; Typhidot IgM negative Cefolac 5 ml/100 mg; 3 ml BD 7 days Syrup RB Tone Kid 5 ml/80 mg; 2.5 ml OD 2 months Syrup Wikoryl 3 ml 3 ml 3 days Syrup,"98997577
+80819
+b9.8g1dl
+868420
+x7day
+3m6D
+ESR-5
+MCHe
+/e881
+Sm1OD
+2m
+Syr witosyl
+3m
+3",194,83,49,17,0.7371,0.9388,0.0882
+58.jpg,58,Doctr,doctr,enhanced,True,6.048,prescription 2019-08-28 Hb 9.8 g/dL; TLC 28000; ESR 25; Typhidot IgM negative Cefolac 5 ml/100 mg; 3 ml BD 7 days Syrup RB Tone Kid 5 ml/80 mg; 2.5 ml OD 2 months Syrup Wikoryl 3 ml 3 ml 3 days Syrup,"* 7
+ 7
+1010s11
+-
+P
+-gsglab
+àb
+: 
+38000
+TLC
+R
+P68 L20
+- dyr Cefelac / (Em/roong)
+ESR-a5
+3ml
+BD
+X - 7day
+mortmtit
+pevt
+1
+MEHeN
+3.31
+RB Tent kid
+le
+yyy.
+(Sml/somp
+yma
+2-5ml
+OD
+Typtidbt
+x2menth
+-
+4 witoye
+3ml
+3m/
+x3dop -",194,192,49,45,0.7474,0.9388,0.2647
+58.jpg,58,EasyOCR,easyocr,enhanced,True,6.5339,prescription 2019-08-28 Hb 9.8 g/dL; TLC 28000; ESR 25; Typhidot IgM negative Cefolac 5 ml/100 mg; 3 ml BD 7 days Syrup RB Tone Kid 5 ml/80 mg; 2.5 ml OD 2 months Syrup Wikoryl 3 ml 3 ml 3 days Syrup,"78797$71 71
+&e /sku ~9-88 {U Ab 4006 TLC 868 bao  Esk -R5 Mtv Lmchr Pcvy McHC E 4 8-8 / xe %3 ""M Tzphilat 
+Sr"" Cekelac [ Eo'/ora) 30 | 0 D X 7d*
+RB Teru ke (so'/gonjh 2-fm / 0f 2mb74 Str' ibotxt 3ml 8 m / 3b0",194,182,49,51,0.7423,0.9796,0.1765
+58.jpg,58,PaddleOCR,paddle,enhanced,True,3.8419,prescription 2019-08-28 Hb 9.8 g/dL; TLC 28000; ESR 25; Typhidot IgM negative Cefolac 5 ml/100 mg; 3 ml BD 7 days Syrup RB Tone Kid 5 ml/80 mg; 2.5 ml OD 2 months Syrup Wikoryl 3 ml 3 ml 3 days Syrup,"9899757174
+Q|08]19
+TLC
+420
+CefelacI.s'm1j
+Ioo m
+6
+5
+3 m
+e d
+X 7d0
+ftt 3Lu?AIW TAJd
+8.31
+R3 Tenk
+7+Sm J
+oD
+x 2 m0R
+HYyo
+3 m
+X",194,124,49,38,0.7268,0.898,0.2353
+59.jpg,59,Doctr,doctr,none,True,6.079,dental prescription 2020-11-23 Next appointment noted for 2020-11-26 at 1:30 pm. Warm saline rinses 1-1-1 15 days Clohex Plus mouthwash BD 15 days Ketorol DT SOS Tablet,"untrasonic Bum Treatment
+M 48
+Root Canal Treatment with Adv. IOPA
+Latest Techniques
+Salue Divses
+WorM
+- 1S days
+Preventive Dentistry For
+1-1-1
+Child Dental Health
+Dental X-Rays
+Mowuwash
+I Clohey flus
+Tooth
+irolaye
+Blesching &
+BD
+Stain Hemoving
+lab
+Complete & Partial Dentures
+Kerola D7
+Sof.
+Tooth Jewellery
+Next Appointment
+26/112020
+Gedra
+130DM.
+spthoe
+Not Valid For Medico Legal Purpose",167,379,34,62,1.7425,1.7059,0.2963
+59.jpg,59,EasyOCR,easyocr,none,True,6.1119,dental prescription 2020-11-23 Next appointment noted for 2020-11-26 at 1:30 pm. Warm saline rinses 1-1-1 15 days Clohex Plus mouthwash BD 15 days Ketorol DT SOS Tablet,"Liaatutc
+eatluen
+Heet Cantl Ireatrnent with Latert Techaique
+Ady ZoPa &t Y2 Wom Balue Milab (S"" coys, [51- Cloher {l HowuwalL ISsoxf 1D
+Preteatve Denlittry For chld Dental Keaha
+Deatal X Rate
+Tapth Blesching & Suin Nemaving
+Conplete & Pattfel Denlutes
+lob Keto fal DT Gf .
+Toeth Jenellent
+Nart Appolntmnent 26 1070 EoA_
+Geeitl _
+Not Valld For Mudico Luttol Purposa",167,348,34,58,1.6228,1.6765,0.1481
+59.jpg,59,PaddleOCR,paddle,none,True,3.8737,dental prescription 2020-11-23 Next appointment noted for 2020-11-26 at 1:30 pm. Warm saline rinses 1-1-1 15 days Clohex Plus mouthwash BD 15 days Ketorol DT SOS Tablet,"Dhrascnic bumTreaunent
+ Root Canal Treatment with
+Adv.IOPA Mt48
+Latest Techniques
+Woom Salne ainse
+15days
+Preventive Dentistry For
+1-
+Child Dental Heaith
+ ental X-Rays
+Cloher jluo Howtuwash
+150ays
+Toath Blesching
+BD
+Stain Removing
+Tas
+ Complete &Partial Dentures
+Tooth Jewellery
+Next Appointrnent
+25/172020
+1:30pm.
+22
+Not Valid For Medico Legal Purpose",167,346,34,53,1.5988,1.5294,0.1852
+59.jpg,59,Doctr,doctr,enhanced,True,6.0849,dental prescription 2020-11-23 Next appointment noted for 2020-11-26 at 1:30 pm. Warm saline rinses 1-1-1 15 days Clohex Plus mouthwash BD 15 days Ketorol DT SOS Tablet,"unrma - remant
+r 48,
+lest Caal Tratpent with Adv. IopA
+tren Tachaigses
+Saline-ouse.
+-
+warm
+Premartnt
+doys.
+Dmttryfr
+1s
+1-1-1
+DuA Datal Raith
+Dental X-Rays
+Mowuwash
+-
+Clokey flus
+Taoth Bascking a
+irclayf
+13D
+Stain ML
+lab
+Compirettutial Dentures
+Kerofol D7
+Sof.
+Toethawaller
+Nut Appolntrant
+26h120ro
+Gedts
+-
+sahro
+13opm.
+Not Valld For Medico Leual Purposa",167,339,34,57,1.5449,1.5882,0.1852
+59.jpg,59,EasyOCR,easyocr,enhanced,True,6.2584,dental prescription 2020-11-23 Next appointment noted for 2020-11-26 at 1:30 pm. Warm saline rinses 1-1-1 15 days Clohex Plus mouthwash BD 15 days Ketorol DT SOS Tablet,"1tuu Al
+bncadTiatmut bnn Tecliredt
+Ady Zopa Yt b2 wam Salu e - M1lu (J"" dos  YonutDatnke [571- DdDeukem ptuXen Clker Il Holtllja4L Judor"" Teet Buutiqy BD Sbi
+Cxryta E eutdpnttia
+Ketfd D7 Sof .
+Vert Jnelkn
+Nur Appalaiun 2ghgz  Eeh~
+Nat VJld Fer Midko Lopai Pucporo
+Geers",167,257,34,46,1.2156,1.3529,0.037
+59.jpg,59,PaddleOCR,paddle,enhanced,True,3.863,dental prescription 2020-11-23 Next appointment noted for 2020-11-26 at 1:30 pm. Warm saline rinses 1-1-1 15 days Clohex Plus mouthwash BD 15 days Ketorol DT SOS Tablet,"$ lest Caal Tonatocrt wits
+Ady. TopA
+LriestTachniqaes
+Soliue- duse.
+WQrm
+Prtt Dmtsty
+Dhod Dotat Hait?
+ Qental X-Rayt
+C/oher.
+Noutuwash
+Bd
+ Taotx Baxtiog &
+$taim Sm
+ Coepets & F wid Dwtured
+Keto^i D7
+ Tuth Jowallery
+Noet Appol ntnant
+26/112020.
+H
+1:30pm.
+1
+Not Vatid For Wedkco Lowal Purpose",167,272,34,50,1.2455,1.4706,0.1481
+60.jpg,60,Doctr,doctr,none,True,6.4066,prescription HealthCare Global Enterprises Ltd. Liposomal Amphotericin B 350 mg daily 4 weeks Injection Amphotericin B 70 mg daily 4 weeks Injection; alternative option Isavuconazole 200 mg 1-1-1 2 weeks Injection IV; alternative option Isavuconazole 200 mg 1-0-1 2 days Capsule; alternative option,"Ltd.
+HealthCare Global Enterprises (O Laibagh Doutle Rosd)
+HEG Ba Saterces Care
+144452. 2nd Cross, Rae Ram Mohan Roy 6109 Exn. Fax +91 80 2248 5962
+MegRmp
+Bangalore- 5600 027 Teler +91 80 4020
+Patient Name: Fhemmachboy
+Corporate
+M.R.D. No.:
+Company Name :
+Or naneav Ward: -
+Consultant Name:
+B
+AMPMOTERICIALB
+LIPOSOMAL
+Invs.
+350mg x doulug
+4 wns,
+OR.
+E B.
+AMpHote RICLOV
+X dauly
+-ry
+7oumg
+YAWIS
+OR,
+INy. -
+ISAVOLONALOLE
+W1-1-1
+200 my
+a weeks
+X
+Nameroft the Doctorc:
+ISAVUCONALOLE
+en capsnle
+Signature-oft the Doctora:
+Jomy Igams
+J
+Need above medicine please help me ifyou
+know any way...",294,553,47,102,1.3673,1.9787,0.4
+60.jpg,60,EasyOCR,easyocr,none,True,7.5413,prescription HealthCare Global Enterprises Ltd. Liposomal Amphotericin B 350 mg daily 4 weeks Injection Amphotericin B 70 mg daily 4 weeks Injection; alternative option Isavuconazole 200 mg 1-1-1 2 weeks Injection IV; alternative option Isavuconazole 200 mg 1-0-1 2 days Capsule; alternative option,"HealthCare   Global Enterprises  Ltdua HCg ed 45 UdCrs RaaRan Ro Exn (0r 0662 550m21 4910506ig4 Fa +91007 Baand 'hnaa Patient Name Corporate MRD: No: Company Name OaAV Ward Consultant Name
+R Amphotericic & Lipo $6 MAL Ivs: X des* 350 *d whs
+OR .
+8
+Riclo pitote xdaxlx ~J An 40#m2 Y 4 wjis
+ok ,
+CONALOL€ (~J ' TSAVu Q06 m ' ""~-1-1 8 week Name of the Doctor : 1SAVUCorlole 6 capsu_ Signature of te Docior: Qopf '-ials X
+Need above medicine please help me ifyou know any way _",294,436,47,87,1.0544,1.7234,0.24
+60.jpg,60,PaddleOCR,paddle,none,True,4.0366,prescription HealthCare Global Enterprises Ltd. Liposomal Amphotericin B 350 mg daily 4 weeks Injection Amphotericin B 70 mg daily 4 weeks Injection; alternative option Isavuconazole 200 mg 1-1-1 2 weeks Injection IV; alternative option Isavuconazole 200 mg 1-0-1 2 days Capsule; alternative option,"HCG
+HealthCare Global Enterprises Ltd.
+Bangale-560027Tele+918040206109Fax+918022485962
+Patient Name
+Corporate
+M.R.D.No.:
+Company Name
+Consultant Name
+R
+AmPHoTERIcINB
+LIPoSoMAL
+INJ.
+4W8
+OR.
+gropx
+-NyAMPHOERICL-B.
+70$ma
+OR.
+INJISAVUCONALOLE
+1-1-1b
+xQweeks
+Name of the Docton
+on CapSne ISAvUConALOLE
+Signature:of the Doctor
+Need above medicine please help me if you
+know any way..",294,367,47,59,0.8469,1.1277,0.32
+60.jpg,60,Doctr,doctr,enhanced,True,6.2622,prescription HealthCare Global Enterprises Ltd. Liposomal Amphotericin B 350 mg daily 4 weeks Injection Amphotericin B 70 mg daily 4 weeks Injection; alternative option Isavuconazole 200 mg 1-1-1 2 weeks Injection IV; alternative option Isavuconazole 200 mg 1-0-1 2 days Capsule; alternative option,"HealthCare Global tta Enterprises a
+- Lid.
+HCG-
+suemo
+I
+E manes
+Pallent Name: Phemmaudbog
+Corpor
+M.R.D. Na:
+Company Nam
+Or naneawwed
+Consultant Name:
+R
+AMPROTERICINLB
+LIPOSOMAL
+Invs.
+350 my x doulug""
+4 whs,
+OR.
+- B.
+AMPHot E RICIN
+X douly
+-my
+7oumg
+VA Wles
+OR,
+INy.
+ISAVUCONALOLE
+-
+Y1-1-1
+200 my
+a weeks
+X
+Nameolte Doctor:
+ISAVUCONALOLE
+en capinl
+B Doctor
+1-07
+Stgosture of
+2ovmy
+n2dms
+J
+Need above medicine please help me ifyou
+know any way",294,420,47,81,0.9558,1.5532,0.4
+60.jpg,60,EasyOCR,easyocr,enhanced,True,7.328,prescription HealthCare Global Enterprises Ltd. Liposomal Amphotericin B 350 mg daily 4 weeks Injection Amphotericin B 70 mg daily 4 weeks Injection; alternative option Isavuconazole 200 mg 1-1-1 2 weeks Injection IV; alternative option Isavuconazole 200 mg 1-0-1 2 days Capsule; alternative option,"HealthCare Globe!Entorprisc:; td: HCG=== 0 Pefant Nanr: Rhunasabey Copo # MRDm : Cowpm UDLAVWad ~ CorutantNaats
+R Gmpnotericic& LipoSOmAL Id} X dau-r"" 3s0*yd 4 wK}
+OR .
+Riclm ~8 Amphorte xdxex ~ij {0@mA VA Wl
+ok _
+iSAvu LONALOL & (~y. Qoomt %'-I-1 8 weeku Namdm rto: iSavuCnaKLole andeo Dctr cAvmniionan ~al$
+Needabovemedicinepleasehelpmeifyou knowanywayo",294,320,47,53,0.7959,1.1064,0.2
+60.jpg,60,PaddleOCR,paddle,enhanced,True,3.991,prescription HealthCare Global Enterprises Ltd. Liposomal Amphotericin B 350 mg daily 4 weeks Injection Amphotericin B 70 mg daily 4 weeks Injection; alternative option Isavuconazole 200 mg 1-1-1 2 weeks Injection IV; alternative option Isavuconazole 200 mg 1-0-1 2 days Capsule; alternative option,"HealthCare Global Enterprises Ltd.
+HCG z5x
+sp pr^s^oVWrM)
+Patient Name :
+Corpor.
+: on *O""W
+CompnyN
+Or bounrowwad
+R
+AmphoteRiciN B
+Lip0somaL
+INs.
+3somg x doulgx
+4 WU8 r
+Or.
+-iny A Mphote Ricin -B
+WtOt
+DA wQs
+Or
+[Ny. isAvUcONAzoLe
+Qoomg %1-1-1
+x Q weebs
+0pX *4 j0 e*N
+er CApgvL 1SAVvCoNALotE
+Stgoskure ol t Doctor?
+x2dos
+Need above medicine please help me if you
+know any way...",294,356,47,73,0.7891,1.3617,0.36
+61.jpg,61,Doctr,doctr,none,True,6.2419,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre hospitalier universitaire de Sherbrooke
+819 346-1110
+Hôtel Dieu
+Hôpital Fleurimont
+580, rue Bowen Sud
+3001, 12e avenue Nord
+Sherbrooke (Qc) J1G 2E8
+Sherbrooke (Qc) J1H 5N4
+1""
+Date : Dec
+20 17
+Mme, M.
+Dohn
+Hubbard
+R
+Acetaminophen
+650me
+94h
+PRN
+disease:
+le
+Theat
+(ovonoru
+anfeve
+glma
+PO
+daily
+Aspinn
+-
+35 - -
+TO das
+Clopidogre
+Toug
+D.
+Jener>
+M
+ne pas répéter
+répéter
+fois
+0-6-11801",313,370,46,68,0.7955,1.3478,0.4
+61.jpg,61,EasyOCR,easyocr,none,True,6.246,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre hospitalier universitaire de Sherbrooke 819 346-1110 Hotel Dieu Hopital Fleurimont 580, rue Bowen Sud 3001, 12e avenue Nord Sherbrooke (Qc) J1G 2E8 Sherbrooke (Qc) JIH SN4
+Date
+Dec Mme, M John Hubbard
+20IT
+R Acetamiiophen SOnc 144 Prn T Teat Covono^ axFeve disease: S1 Po duil~ Aspinn VA ?o Clopidoyel
+Dr Jeue > (OL~ 0-6-11801
+ne pas repeter repeter fois",313,351,46,64,0.7827,1.3043,0.3333
+61.jpg,61,PaddleOCR,paddle,none,True,3.908,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUSCentre hospitalier universitaire de Sherbrooke
+819346-1110
+Hotel Dieu
+Hopital Fleurimont
+580,rue Bowen Sud
+3001,12e avenueNord
+Sherbrooke Qc)J1G 2E8
+Sherbrooke Qc) J1H 5N4
+Date:_Dec1
+201
+John Hubbaro
+Mme,M.
+R Aretaminophen
+PRN
+To tneat
+Covonor
+F&pin
+ ne pas repeter
+ repeter
+fois
+0-6-11801",313,288,46,49,0.7029,1.0652,0.2333
+61.jpg,61,Doctr,doctr,enhanced,True,6.211,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre nospitalier universitaire de Sherbrooke
+819 346-1110
+Hôtel Dieu
+Hôpital Fleurimont
+580, rue Bowen Sud
+3001, 12° avenue Nord
+Sherbrooke Qc) J1G 2E8
+Sherbrooke (Qc) J1H 5N4
+Date : Dec I""
+20 17
+Mme, M.
+Dohn
+Hubbard
+R
+Acetaminophen
+650m
+94h
+PRN
+-
+divease:
+le
+theat
+covonon
+ayfer
+PO
+daily
+Aspinin
+ima
+a -
+TO dail A
+Clopidogre
+Toun -
+Dr
+Jener>
+A
+ne pas répéter
+répéter,
+fois
+0-6-11801",313,370,46,69,0.8019,1.3696,0.3667
+61.jpg,61,EasyOCR,easyocr,enhanced,True,6.1606,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre hospitalier universitaire de Sherbrooke 819 346-1110 Hotel Dieu Hopital Fleurimont 580, rue Bowen Sud 3001, 12e avenue Nord Sherbrooke (Qc) J1G 2E8 Sherbrooke (Qc) JIH 5N4
+Date
+Des Mme, M; 28hu Aobbard
+20J
+R Aretamiophen 6so 144 Frn tect Csvona axlevt drttas: S1 dail Aspinn clopidoy-|
+Jeue  WdL^ 0-6-11801
+ne pas repeter repeter_ fois",313,333,46,59,0.7476,1.2391,0.1667
+61.jpg,61,PaddleOCR,paddle,enhanced,True,3.8388,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUJS Centre hospitalier universitaire de Sherbrooke
+819 346-1110
+Hotel Dieu
+Hopital Fleurimont
+580, rue Bowen Sud
+3001, 12 avenue Nord
+Sherbrooke (Qc) J1G 2E8
+Sherbrooke (Qc) J1H 5N4
+n1 T iote
+20 
+John Hubbard
+Mme, M.
+R
+Aretaminophen
+RN
+To fueat
+CSvona
+ ne pas repeter
+ repeter.
+fois
+0-6-11801",313,282,46,51,0.6933,1.0435,0.3
+66.jpg,66,Doctr,doctr,none,True,7.3217,"emergency registration card 2021-07-18 Dr. Baba Sahebambedkar Hospital, Rohini Laxmi Emr Regn No: DBSAH.106031 52 Female Pitampura Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles Gallbladder; biliary tract Complaint/history includes pain in abdomen and vomiting. CT abdomen mentions cholelithiasis with gallbladder malignancy, choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles, multiple periportal, pre-aortic and pericholedochal lymph nodes. Pulse 80/min and BP 120/80 mmHg. Diclofenac 75 mg Injection; IV stat Pantoprazole 40 mg Injection; IV stat","DR. BABA SAHEBAMBEDKAR HOSPITAL, ROHINI
+Govt of National Capital Territory of Delhi-110085
+EMERGENCY REGISTRATION CARD
+Date! Time : July 18, 2021 9:19:11 AM IST
+MLC/MLCNO 1
+Emr Regn No. : DBSAH.106031
+Age :
+Name :1 LAXMI
+52
+Sex: Female
+Brought By
+Eatbers/Husbands Name:
+Y/OM/OD
+Address: PITAMPURA
+Category : General/ BPL/ EWS/ DGEHS/ Sr Citizen/Others
+ContactNo:
+Department: EMERGENCYICASUALTY
+History/Clinical
+Date Investigations
+Findings
+Treatment/Instructions
+120180
+Investigations
+Time of Examination:
+Pulse.80 /min B.P MM OF hg
+Tempreture:
+Hematology
+Complaints /History
+abdomm.
+TLC,DLC,ESR
+Glo- Pouh
+Hb,
+jm
+PLATLETS
+- Vonubuy
+BT, CT,PT
+HbsAg
+NOHO TOMIHTIV
+Urine-Exam.
+ALB.SUGAR
+R/cl0 1
+MICRO
+Biochemistry
+H/O DRUG Allergy: CVS
+CIT Ardimy
+SGOT (ALT)
+Examination
+SGPT(AST)
+CNB
+ehalidinicul wpn
+ALK PHOS
+VNL
+SR. BILIRUBIN.
+PA
+geublodldly Melignony
+BL. UREA
+BL. SUGAR' : Fast/P.P./Rand
+A
+Chabdochodayhbww
+blood Group
+Provisional Diagnosis:
+wrm
+X-Ray
+modrcidalation
+ECG
+Treatment/Instruction:
+cnd jmirer
+USG
+cuf enahupceho
+hebahebilld
+Mulhpur popeveume. pen'portu,
+prealcotend
+pontcholidoched
+dympn medi - m etutahe
+Signature & Desgination of the Doctor
+gmy /YN Stutt
+Imi Dlelbhmee
+jmstw
+/hu feutop Juuny
+0159
+ARIC tloi DIDE apfert ER 0161,26 E TRE à E1OIDRD
+SR
+(No safe drinking alcohol,iti is harmful in
+Serropr
+any way)
+heul
+Print back
+I
+Clwr
+Aceully
+2A",629,1299,86,216,1.5231,2.3256,0.4062
+66.jpg,66,EasyOCR,easyocr,none,True,16.6042,"emergency registration card 2021-07-18 Dr. Baba Sahebambedkar Hospital, Rohini Laxmi Emr Regn No: DBSAH.106031 52 Female Pitampura Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles Gallbladder; biliary tract Complaint/history includes pain in abdomen and vomiting. CT abdomen mentions cholelithiasis with gallbladder malignancy, choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles, multiple periportal, pre-aortic and pericholedochal lymph nodes. Pulse 80/min and BP 120/80 mmHg. Diclofenac 75 mg Injection; IV stat Pantoprazole 40 mg Injection; IV stat","DR. BABA SAHEBAMBEDKAR HOSPITAL, ROHINI Gcvt of National Capital Territory of Delhi-110085 EMERGENCY REGISTRATION CARD Dalc Timc July 48,.2021 9419 1 AMIST MLCIMLCNO Ernr Regn No: DBSAH106031 Age Name LAXMI 52 Sex; Female Fathers Husbands Name Y/OMOD Brought By Address; PITAMPURA Category General/ BPLI EWSI DGEHSI Sr Citizen/Others Contact No: Department: EMERGENCYICASUALTY Datc Investigations Fistory ClinicalkTreatmentInstructions [Findings pofo Time of Examination: Pulse:. KL_Imin B.P Investigations MM OF hg Tempreture: Hematology Complaints /History 6/o 2 Ocul Im Mhdomn: Hb. TLCDLC,ESR PLATLETS Vtnuy BT; CTPT Mbl#o T)m / #TV HbsAg Urine-Exam. ALBSUGAR Klclo MICRO Biochemistry HJO DRUG Allergy: CvS elt fvdmvy SGPT (AST) Examination @N} eh bulLcly t Iculs wlbr ALK PHOS WNC 8 A Quu UI exlkr Molsbmot SR BILIRUBIN BL; UREA BL SUGAR FastfP PJRand N) ehubdnchoxryybwlu blood Group Provisional Diagnosis: X-Ray wilm mxdraldulahrn ECG TreatmentyInstruction: @f entrahpeehn end Iku: USG hlsahr bU& M uhllu pcsufentute: p er poxtuu; Dro Cu-Cel cM Dr/' ChteLidee heo Jyhh Mudl o etzutnbe
+Signature & Desgination of the Doctor lo  Diltbfee Iovy /m St Jw 8tw [4-{vtep Zuns A29 eRa ulaDT@lzpfedtarolb ,<ERAufIRD Svf (No safe drinking alcohol , it Is harmful in any way) Ku Sxrsw Print back O tUUA _ 2",629,1248,86,209,1.461,2.3023,0.2969
+66.jpg,66,PaddleOCR,paddle,none,True,4.7623,"emergency registration card 2021-07-18 Dr. Baba Sahebambedkar Hospital, Rohini Laxmi Emr Regn No: DBSAH.106031 52 Female Pitampura Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles Gallbladder; biliary tract Complaint/history includes pain in abdomen and vomiting. CT abdomen mentions cholelithiasis with gallbladder malignancy, choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles, multiple periportal, pre-aortic and pericholedochal lymph nodes. Pulse 80/min and BP 120/80 mmHg. Diclofenac 75 mg Injection; IV stat Pantoprazole 40 mg Injection; IV stat","DR.BABA SAHEBAMBEDKAR HOSPITAL, ROHINI
+EMERGENCY REGISTRATION CARD
+MLC/MLCNO:
+Date/TimeJuly 18,20219:19:11 AM IST
+Emr Regn No.DBSAH.10603
+Age
+NameLAXMI
+52
+SexFemale
+Brought By 
+Fathers/Husbands Name
+Y/OM/OD
+Category:General/BPL/EwS/DGEHS/Sr Citizen/Others
+Address: PITAMPURA
+Department: EMERGENCY/CASUALTY
+Contact No:
+Date
+Investigations
+Findings
+12080
+Pulse..O./min B.P
+Time of Examination:
+MM OF hg
+Investigations
+Tempreture:
+ComplainsHisory /o-fcnjm cbdom
+Hematology
+Hb,TLC,DLC,ESR
+PLATLETS
+NO#0TDMHTV
+BT,CT,PT
+HbsAg
+Urine-Exam.
+NCO-
+ALB,SUGAR
+MICRO
+CIThinumy
+CV8
+Biochemistry
+H/O DRUG Allergy
+Examination
+SGOT (ALT)
+CNIS
+ehonfcels 
+SGPT(AST
+ALK PHOS
+8A
+hmwkmr?mb
+SR.BILIRUBIN
+BL,UREA
+ehebdochoelrnrouny
+BL.SUGARFast/P.P/Rand
+blood Group
+Provisional Diagnosis:
+w'n amedrcrdlatcis
+X-Ray
+'ECG
+Treatment/Instruction:
+cy ertrahpcehn cud jntrei
+USG
+nenanicbilid
+Munmpcunorame.pen'porte,
+pyeelcoelcir porrcnoclidoeney
+ympnnasi-metutahe.
+Signature &Desgination of the Doctor
+Im DclbAnee 9smy/N stt
+mtumbdamyt
+G35A
+hur sergr SR
+No safe drinking alcohol,it is harmful in any way)
+Print 
+back
+Chn
+JAceu",629,1071,86,172,1.2369,1.8721,0.3125
+66.jpg,66,Doctr,doctr,enhanced,True,7.3982,"emergency registration card 2021-07-18 Dr. Baba Sahebambedkar Hospital, Rohini Laxmi Emr Regn No: DBSAH.106031 52 Female Pitampura Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles Gallbladder; biliary tract Complaint/history includes pain in abdomen and vomiting. CT abdomen mentions cholelithiasis with gallbladder malignancy, choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles, multiple periportal, pre-aortic and pericholedochal lymph nodes. Pulse 80/min and BP 120/80 mmHg. Diclofenac 75 mg Injection; IV stat Pantoprazole 40 mg Injection; IV stat","DR. BABA SAHEBAMBEDKAR HOSPITAL, ROHINI
+Govt of National Capital Territory of Delhl-110085
+EMERGENCY REGISTRATION CARD
+Date! Timc :July 18, 2021 9:19:11 AM IST
+MLCIMLCNO : / Emr Regn No. : DBSAH.106031
+Ago:
+Name :: LAXMI
+|52
+Sex: Female
+Eatbers/Husbands: Name: :
+Y/OM/OD
+Brought By:
+Address: PITAMPURA -
+Category : Generall BPLI EWSI DGEHSI Sr Citizen/Others
+ContactNo:
+Department: EMERGENCYICASUALTY
+History/Clinical
+Date : Investgations
+Findings
+Treatiment/Instructions
+- Investigations
+Time ofExamination:
+Pulse:.80 /min B.P IOM OF hg
+Tempreture:
+Hematology
+Complaints /History
+abdomy.
+Hb, TLC,DLC,ESR
+Glo-Peum jm
+PLATLETS -
+1 Vonubuy
+BT, CT,PT
+HbsAg
+NOHO T2OM/HTIV
+: Urine-Exam.
+: ALB,SUGAR
+K/clo I
+: MICRO!
+Biochenistry
+HO DRUG Allergy: CVS /
+CIT Aiding
+SGOT (ALT)
+Examination
+SGPT(AST)
+CN/S
+eholidianfcul wln
+ALK PHOS
+VONL
+SR. BILIRUBIN.
+PiA
+geubloddis Meligmony
+BL, UREA
+A
+BL. SUGAR: Fast/P.P.Rand
+Chaldochodih/ew
+- blood Group
+Provisional Diagnosis:
+wim Modretdalaton
+xRay
+ECG
+Treatment/Instruction: -
+USG
+cy entrahupeeic cud. ptrer
+hebahebilids
+Mulhypnus pouporouse. pen'portue,
+prealcoel cud portcholedoches
+dympn medi I mm etiutahe
+Signature & Desgination of the Doctor
+fmeegmy /YNI Stut
+mi Dilelb
+jmstw
+/hf Deutop Juuny
+A / 11
+ARrata CIDIS - TETRGROl6I u6 ER TRE 2I afoROD
+SIR
+(No safe drinking alcohol,itis harmful in
+Sergur
+any way)
+Aeul
+Print back
+'
+- I
+Clwns
+Acy
+2A",629,1295,86,212,1.4881,2.2907,0.4062
+66.jpg,66,EasyOCR,easyocr,enhanced,True,16.2172,"emergency registration card 2021-07-18 Dr. Baba Sahebambedkar Hospital, Rohini Laxmi Emr Regn No: DBSAH.106031 52 Female Pitampura Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles Gallbladder; biliary tract Complaint/history includes pain in abdomen and vomiting. CT abdomen mentions cholelithiasis with gallbladder malignancy, choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles, multiple periportal, pre-aortic and pericholedochal lymph nodes. Pulse 80/min and BP 120/80 mmHg. Diclofenac 75 mg Injection; IV stat Pantoprazole 40 mg Injection; IV stat","DR BABA SAHEBAMBEDKAR HOSPITAL, ROHINI Govt' Of Natlonal Capltal Territory 0f Delhi 110085 EMERGENCY REGISTRATION CARD DalcJ Timc July 48,2021 94191 AMIST MCMMLCNO Y Emr Rcgn No: DBSAH106031 LAXMI Ago Namc  652 Sex: Pcmalc [Foders)Husbands Namc YIOMIOD Brought By Addicss;_ PITAMPURA Catcgory GencraV BPL EWSI DGEHSI Sr Citizen/Others ContaclNo: Departmcnt: EMERGENCYICASUALTY Datc Invesagations Fistory/clinicalTreatment Instructions [Findings Pulse;RL_Jmin BP peojkv nvestigations Time of Examination: 00mm MM OF hg Temprcture: icmalology Complaints MHistory 8 |u< dhdorn: Hb; TLGDLCESR Qukit PLATLETS BT, CT,PT Nb/ho Ti)m | TIV HbsAg jUrine-Eiam: MLB SUGAR Rlelv MICRO, {Biochenistry HO DRUG Allergy: Cvp e fwiy SGoF&s Examination @M/} eh bulLivya Jal Wlb: AIEKEBLRSBIN: 'Jvw 8 #4 JuztBLcblkir"" Mfebslmoy; BL UREA BL: SUUGAR : FaStPPPRRand 'Nb ehubdpchosliyybuls blood Group Provisional Diagnosis: SxR4  e+s (drakedulahbi ECG TreatmentfInstruction; UUSG eNtrahupedn cnd mka hulswhicbill_ @rilhnu postruusse: penfaxfzo, pre @l-Cel C} @r1 tteldweheep Jyhh Mneldll metzutthe Signature & Desgination of the Doctor izloDiubtnee %0v4 I-tty Iwty L4 uutvp Aunt Avst ""aRauaOTon-ltarolb ,&wrarv-alDRU Sf Sxrer_ (No sale drinking alcohol, It Is harmful [n any WaY) luul Print back C WU^_ 20",629,1221,86,190,1.4515,2.1047,0.2812
+66.jpg,66,PaddleOCR,paddle,enhanced,True,4.674,"emergency registration card 2021-07-18 Dr. Baba Sahebambedkar Hospital, Rohini Laxmi Emr Regn No: DBSAH.106031 52 Female Pitampura Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles Gallbladder; biliary tract Complaint/history includes pain in abdomen and vomiting. CT abdomen mentions cholelithiasis with gallbladder malignancy, choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles, multiple periportal, pre-aortic and pericholedochal lymph nodes. Pulse 80/min and BP 120/80 mmHg. Diclofenac 75 mg Injection; IV stat Pantoprazole 40 mg Injection; IV stat","Govt or National Capital Territory of Delhi-110085
+EMERGENCY REGISTRATION CARD
+MLC/MLCNO 1
+Date/ Timc : JuIy 18, 2021 9:19:11 AM IST
+Emr Rcgn No.: DBSAH.106031
+JAge:
+52
+Sex:
+ Female
+Brought By :
+Fathers/Husbands Name :
+Y/0M/OD
+Category : General/ BPL/ EWS/ DGEHS/ Sr Citizen/Others
+Addiess:PITAMPURA
+Departmcnt: EMERGENCY/CASUALTY
+Contact No:
+History/Clinical
+Trcatment/Instructions
+Date
+Investigations
+Findings
+Investigations
+Time of Examination:
+MM OF hg
+:Tempreture:
+Hematology
+Hb, TLC,DLC,ESR
+Veneri
+PLATLETS ,
+.. Br, Cr,PT
+Nof#0 T9M/HTIV
+.HbsAg !
+!. Urine-Exam.
+,. ALB,SUGAR
+MICRO!
+C/T hndumy
+. Biochemistry
+H/O DRUG Allergy
+SGOT (ALT)
+Examination
+eh oUcl!dHfcwls wfH
+SGPT(AST)
+WNL
+:
+ALK PHOS
+Jeu Glcdduy N1 slgnoniy
+'SR. BILIRUBIN. .
+BL, UREA
+ehabdochoelnouy
+BL. SUGAR : Fast/P.P/Rand
+blood Group
+Provisional Diagnosis
+wjn modrch dioAcii
+XRay
+cy, ertrahuncine cud jrtrei!
+Treatment/Instruction:
+USG
+heiJ chic biicd
+M u'mu pounorotne. per'nortee,
+PYR ol-Coe!cvR forIchcldwe nep
+Jympn nest - metiutphe.
+Signature & Desgination of the Doctor
+Jmj Dlclbfnee ISny /'Ny Stuf
+JmJf
+1hnj focuteop sueuny
+(No safe drinking alcohol, it is harmful in any way)
+Print.
+back",629,1090,86,185,1.2464,2.0116,0.2344
+67.jpg,67,Doctr,doctr,none,True,6.5604,"prescription 2022-10-01 Sai Clinic Test 30 years Male Hypertension and hypothyroidism Complaint/history notes fever since 3 days. BP 140/90 and pulse 80 bpm are written. Additional investigations advised include CBP, CUE, ECG, 2D Echo, thyroid profile, blood urea, serum creatinine, and dengue IgM/IgG. 5 mg 30 days Tablet; medication name unclear 5 mg 30 days Tablet; medication name unclear Thyrox 75 mcg 30 days Tablet 30 days Tablet; medication name unclear","SAL CLINIC
+Dr. MBBS Y. Lavanya
+Regd No. : 96510
+Near Ambedkar Staue, Miyapur
+Dr. K. Chanakya Chandra Kumar
+Hyderabad
+MBBS Regd No. : 68237
+Name
+Tet
+Date aloet 2021
+Age / Gender :
+304 Mol Phone No.
+Address
+:
+R
+elclo
+Hyeawion sHyphlys
+clo L Prevel sins 3 days
+juof20
+R
+BP-
+yym
+go
+Santo
+DTal
+sayuhy
+PP
+0- -
+-zoday
+- rob. Anatsng -
+2)
+o
+a
+-3eclay
+Suisy
+Rmg
+2 lob Slugox
+DÉR
+CUE
+pet
+Toslay
+u) Tol Bplue
+ECG CELo
+D- n
+20
+I
+maet
+p-
+1A
+-
+JAS
+07 CRA A435
+St
+Sary",448,418,76,89,0.7812,1.1711,0.1273
+67.jpg,67,EasyOCR,easyocr,none,True,9.0145,"prescription 2022-10-01 Sai Clinic Test 30 years Male Hypertension and hypothyroidism Complaint/history notes fever since 3 days. BP 140/90 and pulse 80 bpm are written. Additional investigations advised include CBP, CUE, ECG, 2D Echo, thyroid profile, blood urea, serum creatinine, and dengue IgM/IgG. 5 mg 30 days Tablet; medication name unclear 5 mg 30 days Tablet; medication name unclear Thyrox 75 mcg 30 days Tablet 30 days Tablet; medication name unclear","Dr. Y. Lavanya Regas No. 96510 Dr. K Chanakya Chandra Kumar MBBS Regd No 68257
+SAI CLINIC Near Ambedkar Staue, Miyapur Hyderabad
+talo } 2621 Date Imo Phone No
+Name
+Age / Gender
+Address
+R
+ele/: Krakw; On & Hyyttt-/ el keuc 4nU) 2 oy xe/r0 F- X0 t~ sc( ~3o L pe- Stal Sanle Kol Auut s~f '_Lozk '~x ~lwax Km -e aay ekp IoL cue A 70 &> EcG ek JaL &pe 1 20 WjE iiea G ZSAGM S",448,338,76,79,0.7433,1.0395,0.0909
+67.jpg,67,PaddleOCR,paddle,none,True,3.9383,"prescription 2022-10-01 Sai Clinic Test 30 years Male Hypertension and hypothyroidism Complaint/history notes fever since 3 days. BP 140/90 and pulse 80 bpm are written. Additional investigations advised include CBP, CUE, ECG, 2D Echo, thyroid profile, blood urea, serum creatinine, and dengue IgM/IgG. 5 mg 30 days Tablet; medication name unclear 5 mg 30 days Tablet; medication name unclear Thyrox 75 mcg 30 days Tablet 30 days Tablet; medication name unclear","SAICLINIC
+Dr.Y.Lavanya
+MBBS
+Regd No.:96510
+Near Ambedkar Staue,Miyapur
+Dr.K.Chanakya Chandra Kumar
+Hyderabad
+MBBS
+Regd No.68237
+Tet
+Name
+MoPhone No.
+Age/Gender
+Ahos
+Address
+R
+c1Feve in 3 day
+14090
+BR-
+Dial Hanlo smy-Joday
+pR
+CUE
+pos myTn
+20",448,237,76,46,0.7589,1.0,0.0545
+67.jpg,67,Doctr,doctr,enhanced,True,6.4348,"prescription 2022-10-01 Sai Clinic Test 30 years Male Hypertension and hypothyroidism Complaint/history notes fever since 3 days. BP 140/90 and pulse 80 bpm are written. Additional investigations advised include CBP, CUE, ECG, 2D Echo, thyroid profile, blood urea, serum creatinine, and dengue IgM/IgG. 5 mg 30 days Tablet; medication name unclear 5 mg 30 days Tablet; medication name unclear Thyrox 75 mcg 30 days Tablet 30 days Tablet; medication name unclear","Dr. Y. Lavanya
+SA CLINIC
+MBBS
+Regd No - 96510
+Near Ambedkar Staue, Miyapur
+Dr. K. Chanakya Chandra Kumar
+Hyderabad
+MBBS Regd No 68237
+Name
+let
+Date : taloet 202L
+Age / Gender :
+3oY Mol Phone No.
+Address
+:
+R
+elelo- Hyalawion gtlypthys
+clo r hevel sin 3 daye
+1uo/20
+R
+BR-
+ym
+go
+Samts
+DTal
+say-arly
+PP
+O- 
+-3 zoday
+rob.
+Aatsng
+a)
+lgy
+>
+Sw
+a Jlpax
+-3oolay
+3 lob
+2myg
+CES
+-
+O
+CUE
+pdt. - Zoolay
+ECG
+w) Tol Bylu J
+0
+EELo
+0-
+I
+f-
+pat
+20
+1ono
+A
+Jny
+-
+070 CAA 14oS
+St
+:
+Durg",448,426,76,95,0.7924,1.25,0.0909
+67.jpg,67,EasyOCR,easyocr,enhanced,True,8.7268,"prescription 2022-10-01 Sai Clinic Test 30 years Male Hypertension and hypothyroidism Complaint/history notes fever since 3 days. BP 140/90 and pulse 80 bpm are written. Additional investigations advised include CBP, CUE, ECG, 2D Echo, thyroid profile, blood urea, serum creatinine, and dengue IgM/IgG. 5 mg 30 days Tablet; medication name unclear 5 mg 30 days Tablet; medication name unclear Thyrox 75 mcg 30 days Tablet 30 days Tablet; medication name unclear","Dr. Y: Lavanya Regs No 96510 Dr K Chonakyo Chandra Kumar Mbbs Regd No 60237
+SAI CLINIC Near Ambedkar Staue, Mlyapur Hyderabad
+Data
+6J 2621
+Name
+Age Gender
+IMoL Phone No_
+Address
+R ple/o - Krabwon ~tytl clo keuu Awl 3 Jrtf 1xc/0 F- {o tm Jial Mambs sn]-Jly  O7 9 ral. Awahsxf 476%~4 ~h @Kf cue 6_ 70 8p EcG ek6 Fal %kk GrkL 20 f_63_X Wled Gal 3S 9y S",448,332,76,77,0.7545,1.0132,0.1091
+67.jpg,67,PaddleOCR,paddle,enhanced,True,3.8581,"prescription 2022-10-01 Sai Clinic Test 30 years Male Hypertension and hypothyroidism Complaint/history notes fever since 3 days. BP 140/90 and pulse 80 bpm are written. Additional investigations advised include CBP, CUE, ECG, 2D Echo, thyroid profile, blood urea, serum creatinine, and dengue IgM/IgG. 5 mg 30 days Tablet; medication name unclear 5 mg 30 days Tablet; medication name unclear Thyrox 75 mcg 30 days Tablet 30 days Tablet; medication name unclear","Dr.Y. Lavanya
+sAI cLNc
+meBs
+Regd No . 96510
+Near Ambedkar Staue, Mlyapur
+Dr. K. Chanakye Chandra Kuma?
+Hyderabadn
+MBBS
+Regd No.68237
+t91Ocf 2022
+Name
+Date
+M.o- phone No.
+Age / Gender
+YF o
+Address
+R
+Tewe #inu 3
+Hal.
+'o!
+OX
+0",448,208,76,44,0.7701,0.9737,0.0727
+72.jpg,72,Doctr,doctr,none,True,7.1028,"orthopedic prescription 2010-11-13 Trauma Center Zahidul Hossain Right knee pain Right knee Complaint of right knee pain for one month with difficulty going up stairs. No bony lesion noted. Advice includes X-ray of right knee AP, lateral, axial, and tunnel views. Ultrafen Plus 500 mg 2-0-2 2 months Tablet Relentus 0-0-1 2 months Tablet 2-0-2 2 months Capsule; medication name unclear Ultracal-D 0-0-0 2 months Tablet Cartilax 2-0-2 2 months Tablet Diclofenac 50 mg 2-0-2 10 days Tablet Ultracal-D 0-0-0 10 days Tablet 2-0-2 10 days Capsule; medication name unclear","UT8 416T. 47. ST6 WIG7I9 a
+47.R.R.47; f STAT (e.28)
+COTT 8 Geit GOS
+47.8.47 (en.R6.42, SrRT9E)
+2R/0/ 4 SR-R (Fare CAFR fanics)
+4167 ACATC9f6e aen 8 GTORT A 6 2T7 2H90M
+*TTTei, FRa GAIG, DIPT
+4R 476426, Cile WR
+TRAUMA
+G 8b350348, byootov, 3>>3o0,
+FIRRE PalTCU aRItcefe H1e7
+CENTER
+3380038, >380090, 5380000
+faP9iel S 2181000 97 CAfEIP PRIPfeT
+RPJISA 8 bto-2-0-3380b6
+AT 8
+hi dul Hashan. PT 8 gn 0 Sliset 8 1310/10
+R
+elo fa en
+Rf 5 nee lammh
+DTheuly on
+by Klais
+gongup
+No bony lov
+de Kony
+RKnee X
+Cab -
+AP
+Uhafin-pug
+Somg 2t0t
+hos
+Canane op.
+Axlal
+2 lul, Relonkas
+0 to TD
+Tuanelw
+2M4
+3) Cap
+Romtrony
+2t0+2
+a0a1p 2119
+U
+Cals, Irueal-D U 01 DE0
+Cartilis- - Stot
+S
+Cal.
+I Z
+RL
+AAo kme Crp
+Afi MRI
+2
+plyfb tAWD t Seguse
+R)
+R Knee
+ANLRe
+lab. Ditlofenae
+2+0fD
+SD 
+aaop op,
+luls.
+Dhalal-D -Ot0t
+)
+Cap
+onep 20m
+2t0tD
+HPFGOS TARI 8  SUT-RPG o 16T RE (BU 74), GHRT29703938-8523b0, 0S922-BASS
+AOT HFICO 44294 AGF AFGA I",558,860,111,197,1.147,1.6937,0.193
+72.jpg,72,EasyOCR,easyocr,none,True,8.9095,"orthopedic prescription 2010-11-13 Trauma Center Zahidul Hossain Right knee pain Right knee Complaint of right knee pain for one month with difficulty going up stairs. No bony lesion noted. Advice includes X-ray of right knee AP, lateral, axial, and tunnel views. Ultrafen Plus 500 mg 2-0-2 2 months Tablet Relentus 0-0-1 2 months Tablet 2-0-2 2 months Capsule; medication name unclear Ultracal-D 0-0-0 2 months Tablet Cartilax 2-0-2 2 months Tablet Diclofenac 50 mg 2-0-2 10 days Tablet Ultracal-D 0-0-0 10 days Tablet 2-0-2 10 days Capsule; medication name unclear","58 49*64 , 4T, WrNI VqnN 43,R,8,47; GN (f3e) Cl : Tt 6TD 47.8.47 (0738.425,,61T) R6 / R8 (fia CMR fans1e) 467e1 16v 77 Zlhi T? 8 77/7 %Fniiem ~Tr 694 Gc blal 948425, FIl 5144 TrEnner 07{7  e e b octob, Sajsool, FFA *T1FCG $ coirofev 7e7 0b8eca8, #n8lq94. 6ab2uto fFi917 84 ?ria5ui 4 6furz7 (annifa Tr4 6to-R-bss8obb TTT ASAul_Haeku 44 on  Oilat Iz@uhe_ R el Remn. hnee -Imrffs 6@ewlly 3€*P IeGxr No_Bry low Ad: xrny knce_ Tob Whak plo 4p 2+0 €) Kak 5""bg1a)? 512 Axnl Tue,Reenlz to t) TunnEw 6 3 to+2 2My Pethprf 3115 0074? Tal_ (Llbueal-D 0 t2€ 0 axkls- > +o+) Ce L
+Yio
+1ax0 knce 6 ARuRI7 pCy 60 t Fc D + Sxsuse Kuel Knee_ Rx Zub , Diclfenae 2+FJ 7651713 Dr Tb. [LPKaeal-D 6+J+ 2to € 2 Ce' I4M 261-ftn = a€ One 7iFio; TTw? (84-1 GINT7 407226 44ol TF6 4431?14 T0 &NC 0j930-83*9b0_ 0,9?",558,711,111,175,0.9695,1.5045,0.1228
+72.jpg,72,PaddleOCR,paddle,none,True,4.3691,"orthopedic prescription 2010-11-13 Trauma Center Zahidul Hossain Right knee pain Right knee Complaint of right knee pain for one month with difficulty going up stairs. No bony lesion noted. Advice includes X-ray of right knee AP, lateral, axial, and tunnel views. Ultrafen Plus 500 mg 2-0-2 2 months Tablet Relentus 0-0-1 2 months Tablet 2-0-2 2 months Capsule; medication name unclear Ultracal-D 0-0-0 2 months Tablet Cartilax 2-0-2 2 months Tablet Diclofenac 50 mg 2-0-2 10 days Tablet Ultracal-D 0-0-0 10 days Tablet 2-0-2 10 days Capsule; medication name unclear","..
+...
+.8..
+/-
+TRAUMA
+CENTER
+888098
+9984--0948
+R
+elo
+Knee-/onnf
+o bony le
+Adrxony
+Rknee
+tal
+Ap
+ot
+Axinl
+Ine, Rebonlu
+0tot)
+Tunnien
+2M
++0+
+nn
+Talllueal-D-otto
+Tub.Ctlx-to+
+AdOknee
+AdMRI
+ptynotsa+Sxluse
+Rokne
+RtKnee
+Tul. Mlaeal-D-+tD
+Donepoom",558,218,111,43,0.7581,0.9279,0.1228
+72.jpg,72,Doctr,doctr,enhanced,True,7.0844,"orthopedic prescription 2010-11-13 Trauma Center Zahidul Hossain Right knee pain Right knee Complaint of right knee pain for one month with difficulty going up stairs. No bony lesion noted. Advice includes X-ray of right knee AP, lateral, axial, and tunnel views. Ultrafen Plus 500 mg 2-0-2 2 months Tablet Relentus 0-0-1 2 months Tablet 2-0-2 2 months Capsule; medication name unclear Ultracal-D 0-0-0 2 months Tablet Cartilax 2-0-2 2 months Tablet Diclofenac 50 mg 2-0-2 10 days Tablet Ultracal-D 0-0-0 10 days Tablet 2-0-2 10 days Capsule; medication name unclear","LT8 AICF. 47 ETFT WiGiT
+COHI
+dARRAT; R unet (8.18)
+8 Iat CrOS
+4V.64 (6.4, ErwTYE)
+R/ 4 S-R (0.CHIR A-RTCO)
+ATST wedtooree A : wa  PH AIeH
+a
+*ptaeh, fmp GAIS, BTPI
+ uours, CIR MIRR
+TRAUMA
+CREV330M, woootot, 3333o0,
+PRR PAIPICUG vosterrfes IE
+CENTER
+>380038, 5386094, a>seato.
+TAPI si 2181050 47 GARBEAT decmer
+#IIS 8 1hro-2-055809k
+RIT 8
+hi dul Hashons RET : gmgott 8 137n/0
+L
+R
+elofain
+Rt - fnee Imah
+MTfreuly A
+y elai's
+gongup
+No bony boy
+Kony
+2
+à
+RKnel /
+*
+lab
+Ap
+1
+uhafen-piug
+SDmg stotp
+Fhat
+Canagge .
+Axlal
+2 lnlr Relonhas
+0 to T
+Tunnelw
+3) Cap
+- >tot3
+2M1
+1)
+-Paynhony
+OIaT nep
+4
+Calsi Ihueal-D i 01 toea
+>
+2 tot)
+I
+S
+Cal. Catilom
+a a I s D kmee Grp R
+y ft URI
+2 plyab tWd t Seguse
+Knil
+R Knee
+-
+-
+/
+Tab. Dithofenae
+Dt0FD
+SD
+nD ofv,
+lulsr
+Ifacal-D 1 5t2t
+D0
+DtotD
+ou a
+ep
+APIOOT pa 8. RPPT >01-RPIA ob -f (Suvata se), CHHHTE 03930-8535re, 0592
+A
+T at7PIgo UARAGHIC WIE 1",558,815,111,187,1.0735,1.6036,0.1754
+72.jpg,72,EasyOCR,easyocr,enhanced,True,8.445,"orthopedic prescription 2010-11-13 Trauma Center Zahidul Hossain Right knee pain Right knee Complaint of right knee pain for one month with difficulty going up stairs. No bony lesion noted. Advice includes X-ray of right knee AP, lateral, axial, and tunnel views. Ultrafen Plus 500 mg 2-0-2 2 months Tablet Relentus 0-0-1 2 months Tablet 2-0-2 2 months Capsule; medication name unclear Ultracal-D 0-0-0 2 months Tablet Cartilax 2-0-2 2 months Tablet Diclofenac 50 mg 2-0-2 10 days Tablet Ultracal-D 0-0-0 10 days Tablet 2-0-2 10 days Capsule; medication name unclear","y8r4T 4I773 TN 4377 #es(F 64f17 434 Yeenoe Tia $ Uiiq ** ~TATTM naduro, Gt 5? AFNA 7Ti4ut %ucyfu+*184 RT[ :x <ribidus 44 Ci3re4[ @arife 74 } Zab;
+Twt :5 GTta Rrt} T@(+(FiRFrTD) ~4 Fnt 54i5, QA aluis; bxatob, Dassorb, 088ulj8, 0480+71, 048utv 7Ja bbo-R-basbobk:
+IRAUMA S CENIER
+g  ~irtt $ la7ube
+R
+elo pen - Mnee ~ms @Ffewlky p ela"" > lach0 Sznt
+Kray knz
+Tab Wha k~-Elo ""'Gg1t18 Te. Rbnlvj +0 t) C0 ~Prtnh7d 2++2 2i1e? Tal _ (Lhueal-D te0 Tk . @xkkev  tefo
+inuEw
+lAt+ knce' 6 uR/7 py&b tfJ + Sxquce Kue Knee _ IR+ Tab , Diekofs6 2+F ""328k en Eb- Whaeal-D= tJ+?v Traepood 2ta-t ) boi  7F41Q34""T4 #STT #01-[t1 ~44g) #np1co 44344103 11 + (817R1.#8 0nT 3RRTF + 0j930-Barsks; 939*8",558,586,111,132,0.8351,1.1532,0.1053
+72.jpg,72,PaddleOCR,paddle,enhanced,True,4.3677,"orthopedic prescription 2010-11-13 Trauma Center Zahidul Hossain Right knee pain Right knee Complaint of right knee pain for one month with difficulty going up stairs. No bony lesion noted. Advice includes X-ray of right knee AP, lateral, axial, and tunnel views. Ultrafen Plus 500 mg 2-0-2 2 months Tablet Relentus 0-0-1 2 months Tablet 2-0-2 2 months Capsule; medication name unclear Ultracal-D 0-0-0 2 months Tablet Cartilax 2-0-2 2 months Tablet Diclofenac 50 mg 2-0-2 10 days Tablet Ultracal-D 0-0-0 10 days Tablet 2-0-2 10 days Capsule; medication name unclear",".4.
+Rlgk T8 3|44
+.6..
+/
+IRAUMA
+CENTER
+8888
+4484--098
+8
+olihul Hoshor.
+910
+H ree +/mf
+Brnee p
+Tunnwlu
+cM&n? eN9
+Tal: (luerl-D - ot>eo
+Tul.
+Crtlom
+Sxeise
+Knee
+Dferae
+beaf-D-o+tD
+onepoom
+8.-",558,168,111,40,0.8047,0.982,0.0526
+73.jpg,73,Doctr,doctr,none,True,6.4232,clinical note Multiple episodes of vomiting for 4 days Weight 10 kg. Chief complaint states multiple vomiting since 4 days. 4 mL twice daily Syrup; 30 minutes before meals Lanzol 15 mg 1-0-1 3 days Tablet 5 mL once daily 5 days Medication name unclear Relent Plus 2.5 mL 0-0-2.5 mL 3 days Syrup,"LoLD KCC KDING
+Temperature
+Allergies: L No Known allergies
+Pulse
+lifany
+Head Circumference (<2Yr)
+Weight
+lo
+Pain related to chief complaint -
+Height
+Yes D No a - Acute L Chronic
+Nutritional Screening
+Chief Complaint :
+Ouiu 4 doy
+mmullpl uomiling
+Clinical Findings :
+Adv
+Current Diagnosis :
+a
+omelit
+ym .
+Drug Prescription :
+x2d
+I I
+meals)
+(sonun befor
+T. lauzol .
+Sug
+C -
+0
+- .
+X 3d
+Sml OMLL u A
+Enliw gemina
+Further Plan of treatment :
+day X Sday
+Next follow up date:
+ors/toconul wata
+2Su-0 -asml
+-
+Reluut plus
+
+X
+3day",291,483,60,88,1.1821,1.3667,0.2308
+73.jpg,73,EasyOCR,easyocr,none,True,6.6043,clinical note Multiple episodes of vomiting for 4 days Weight 10 kg. Chief complaint states multiple vomiting since 4 days. 4 mL twice daily Syrup; 30 minutes before meals Lanzol 15 mg 1-0-1 3 days Tablet 5 mL once daily 5 days Medication name unclear Relent Plus 2.5 mL 0-0-2.5 mL 3 days Syrup,"TTemperature Pulse
+Allergies: [No Known allergies [Cany
+Head Circumnference Weight Heighr Nutritional Screening
+Yo)
+o EcA
+Pain related to chiel comiplaint CNs ONo QAcute Qchrunic:
+Chief Complaint Ouu Inullbu vomiLud 'dlod Clinical Findings Adv Current Diagnosis Duelt 4il Drug Prescription syp YAc
+meals ) (Sonuu bekeu
+[azol
+[S ""d
+X S4
+Sml 'OhL Ln Enluw 4unlua Further Plan of treatment day X Sdautt Next follow up date Dr$ locond watrt Su -0 ~ &1ul Releut"" plus: Xyp 2d1",291,451,60,76,1.1237,1.2,0.2051
+73.jpg,73,PaddleOCR,paddle,none,True,4.0395,clinical note Multiple episodes of vomiting for 4 days Weight 10 kg. Chief complaint states multiple vomiting since 4 days. 4 mL twice daily Syrup; 30 minutes before meals Lanzol 15 mg 1-0-1 3 days Tablet 5 mL once daily 5 days Medication name unclear Relent Plus 2.5 mL 0-0-2.5 mL 3 days Syrup,"TALSRECORDING:
+Temperature
+Allergies:No Known allergies
+Pulse
+lf any
+Head Circumference (<2 Yr)
+Weight
+Pain related to chief complaint:
+Height
+Yes NoAcute Chronic
+Nutritional Screening
+Chief Complaint:
+Aoph nmo
+mnullipli womiting
+Clinical Findings:
+Ad
+Current Diagnosis:
+oueeit
+yul.
+Drug Prescription
+x20
+F
+meals
+Csonun
+befou
+T.lauzol.1sug
+-
+x3d
+Sm once in a
+Enliogerrnna
+Further Plan of treatment
+day x Sday
+Next follow up date:
+Rs/coconu wata
+Relnt plus sulod
+Ryp",291,453,60,72,1.0997,1.1333,0.2308
+73.jpg,73,Doctr,doctr,enhanced,True,6.3884,clinical note Multiple episodes of vomiting for 4 days Weight 10 kg. Chief complaint states multiple vomiting since 4 days. 4 mL twice daily Syrup; 30 minutes before meals Lanzol 15 mg 1-0-1 3 days Tablet 5 mL once daily 5 days Medication name unclear Relent Plus 2.5 mL 0-0-2.5 mL 3 days Syrup,"uu
+Temperature
+Allergles: - NoKnown allergles
+Pulse
+B any
+=
+Head Circumference (<2 Yr)
+!
+i Welght
+D
+Pain related to chlef complalat
+Height
+Yes . 1 No Acutel Chranle
+Nutritional Screaning
+Chief Complaint :
+Ouill y'day
+mallple vomiling
+Clinical Findings :
+Adr
+Current Diagnosis :
+C
+oueset
+4w -
+Drug Prescription :
+Jyb
+y2d
+à
++
+I
+M
+meals)
+(sonun
+befou
+T. lanzol
+(Sug
+:
+I
+X 3d
+Sml OnLe un a
+Enirogernuna
+Further Plan of treatment :
+day X - Sday
+Next follow up date :
+OPs loconul watt
+a-sw-o-lin
+Reluat plus
+11
+X
+3day",291,475,60,87,1.1787,1.3833,0.2308
+73.jpg,73,EasyOCR,easyocr,enhanced,True,6.654,clinical note Multiple episodes of vomiting for 4 days Weight 10 kg. Chief complaint states multiple vomiting since 4 days. 4 mL twice daily Syrup; 30 minutes before meals Lanzol 15 mg 1-0-1 3 days Tablet 5 mL once daily 5 days Medication name unclear Relent Plus 2.5 mL 0-0-2.5 mL 3 days Syrup,"IALO
+LoRbIo
+Tmperinit Rulse Head Orcumfererce (<2 Yv) Wclght Helght Nutrddooal Screpnin}
+Allergles: _ INo'Ksawn altergles AXany
+Pal telted tn chlet corplalnt KXesONoQAcute_ Chronlc
+Chfel Comptaint  Ialpu Ouiu 4 'dod vomelsxd Cuntcal Findings = Hdv Curtent Diagnosis = luleuel 46 Drug Prescription Yad
+mueaLs) '(gouuv bkou lauzol KS ud F-= X2 Sm Ohu e E nEanmia Further Plan of treatment day X 5dy Next follow up date : D2x/tocon wabrt 2 . Swj- ~1 jw Reluut pluu: 2dat",291,441,60,75,1.1271,1.2167,0.1026
+73.jpg,73,PaddleOCR,paddle,enhanced,True,4.0626,clinical note Multiple episodes of vomiting for 4 days Weight 10 kg. Chief complaint states multiple vomiting since 4 days. 4 mL twice daily Syrup; 30 minutes before meals Lanzol 15 mg 1-0-1 3 days Tablet 5 mL once daily 5 days Medication name unclear Relent Plus 2.5 mL 0-0-2.5 mL 3 days Syrup,"IASRECORDIG
+Allergles:  NoKnown allergles
+Pulse
+f any
+Head Crcumference <2 Yr
+Pain telated tochlef complalnt :
+Helght
+YesNoAcute.rne
+Nutridooal Screening
+Chief Complaint :
+mullipl uornling
+Ouret
+Clintcal Findings
+Acr
+Current Diagnosis :
+Drug Prescription :
+mea
+0
+{o<r} :L
+P6 x
+Snd
+Once
+m a
+Enlogtrrua
+Further Plan of treatment :
+day x scaif
+Next follow up date :
+loconuil watt
+Relut plus
+crpt x",291,376,60,61,0.9381,0.9833,0.1795
+78.jpg,78,Doctr,doctr,none,True,6.1792,"radiology note 2015-06-07 Small calculus in lower calyx of left kidney without hydronephrosis Left kidney A small radiopaque shadow is seen in the left renal region. Two radiopaque shadows are seen in pelvis likely to be phleboliths. On contrast, both kidneys excrete contrast normally. Bilateral partial duplex morphology. Bilateral ureters are normal. Bladder normal. Post-void residual urine insignificant.","%
+DR
+77611S
+Conliol
+Deen i
+shodrw
+A Amv Aadio - opague
+Ronol
+negrin
+-
+(e leyt
+in pelus
+mhadous
+pem
+Tun radippogue
+to Le
+begahiin
+up:
+lihely
+Ow Contrat (iv)
+ans
+eneslim
+Adrecme Lom kidnep
+Cenhact
+nomary
+moisly
+RIL
+pailia
+duplen
+meleris
+a
+noma
+21L
+bodde (N
+mune
+imnguofea
+fost ind senidusl
+ww pahent
+Caliuulus w lewev
+Smpremon
+Small
+.
+Lk
+Wo lydorephugds
+Calype 3 -",401,347,61,62,0.7631,1.0164,0.0816
+78.jpg,78,EasyOCR,easyocr,none,True,6.1463,"radiology note 2015-06-07 Small calculus in lower calyx of left kidney without hydronephrosis Left kidney A small radiopaque shadow is seen in the left renal region. Two radiopaque shadows are seen in pelvis likely to be phleboliths. On contrast, both kidneys excrete contrast normally. Bilateral partial duplex morphology. Bilateral ureters are normal. Bladder normal. Post-void residual urine insignificant.","8+
+DR
+71 6/ ($
+@onliu
+oo srw De4 AMl AAke Bpeq*e U~ Pazl Relua casrus Tr ~f h LA ei uheey O~ Cowl at () a~ enui~ Aaere (st kianep Cokiet namald ~aold e1L Pakj duslen 0 L neva  M1L iele a bbAAe~ 1~ msrben~ ~xS &uA Rsst ne W pakewt . Reww Snal Glinlia Ivpemn Ll wjo Vadanuthuads Castt
+9",401,260,61,60,0.7531,1.0,0.0204
+78.jpg,78,PaddleOCR,paddle,none,True,3.7678,"radiology note 2015-06-07 Small calculus in lower calyx of left kidney without hydronephrosis Left kidney A small radiopaque shadow is seen in the left renal region. Two radiopaque shadows are seen in pelvis likely to be phleboliths. On contrast, both kidneys excrete contrast normally. Bilateral partial duplex morphology. Bilateral ureters are normal. Bladder normal. Post-void residual urine insignificant.","X-R
+DR
+Conliol
+he leyt
+Renol
+Negiim
+peen in pel
+Madoug
+Tur nanippague
+p
+laely
+mmm
+Adeie hom kioney
+B1L patal duglen
+ae
+noma
+BLWelee
+N
+Bladde
+inngnfca
+98t mienniduol
+wi pahient.
+Smau calinlis mi lowe
+CRlyi 7 x wo hydonepos",401,220,61,42,0.7506,0.9836,0.0204
+78.jpg,78,Doctr,doctr,enhanced,True,6.1805,"radiology note 2015-06-07 Small calculus in lower calyx of left kidney without hydronephrosis Left kidney A small radiopaque shadow is seen in the left renal region. Two radiopaque shadows are seen in pelvis likely to be phleboliths. On contrast, both kidneys excrete contrast normally. Bilateral partial duplex morphology. Bilateral ureters are normal. Bladder normal. Post-void residual urine insignificant.","0
+DR
+761
+Conliot
+shasow Pe Ln
+A AMAD
+radisopoque
+tre leyt
+Paral
+rapin +
+pain Lin pelus
+nhosons
+Iwn
+asigfogus
+to ba
+fepsim
+uypo
+hhsly
+Ow Conrant (1y)
+Ande
+enerelin
+Adasmn Laln kudnep
+Conbaet
+nommary -
+duflen moioly
+BAL
+paitio
+p
+wrn (
+9L Anelenss
+/
+blodser (N
+mune
+inagnofean
+fest ms senidual
+/
+ui pohent
+-
+Calimlis h lowen
+Supremm
+Small
+h
+Lk
+wf lydonyflugshs
+Calype 7 à",401,353,61,64,0.7781,1.0492,0.0612
+78.jpg,78,EasyOCR,easyocr,enhanced,True,6.104,"radiology note 2015-06-07 Small calculus in lower calyx of left kidney without hydronephrosis Left kidney A small radiopaque shadow is seen in the left renal region. Two radiopaque shadows are seen in pelvis likely to be phleboliths. On contrast, both kidneys excrete contrast normally. Bilateral partial duplex morphology. Bilateral ureters are normal. Bladder normal. Post-void residual urine insignificant.","@ KuX D n6u @snlrol Msrw 70 4mU As tp1"" } eata ~n~ btt b Relty obo Los 1r N n 04 & em hu to [ux) a# emueh Abezee Ml kener Cenbxiet nasald ~atold @L Pal; axlen Ml Mee J bl Ale wn+ mbenis ps.t nib ~mlnsl M Pahewt . Glimuli nt louw Iprr Sxau wp bddonttraax Celtt % lt",401,242,61,57,0.7481,1.0,0.0408
+78.jpg,78,PaddleOCR,paddle,enhanced,True,3.6922,"radiology note 2015-06-07 Small calculus in lower calyx of left kidney without hydronephrosis Left kidney A small radiopaque shadow is seen in the left renal region. Two radiopaque shadows are seen in pelvis likely to be phleboliths. On contrast, both kidneys excrete contrast normally. Bilateral partial duplex morphology. Bilateral ureters are normal. Bladder normal. Post-void residual urine insignificant.","DF
+Conliol
+A Auetr
+tta
+Legt
+Pavrt
+hb
+turly
+Ow Contn
+(
+wog+^p ryrod
+BL eles
+Bod aen (N
+R8t ms nidvol
+w pahintr",401,105,61,24,0.8229,0.9836,0.0204
+82.jpg,82,Doctr,doctr,none,True,6.1284,"clinical note Baby Otitis media Ear Height 54 cm, weight 4.4 kg, head circumference 39 cm. Otitis media is written in the history section. Antibiotic ear drops 1 drop 3 times daily Taxim O drops 0.4 mL twice daily Nasoclear nasal drops SOS Nasal drops Bonnisan drops 0.5 mL","Balry,
+20/seph
+:
+Waist Circum :
+Height : 54Cm
+Weight: 4.4 lg BMI 4C-390n
+Temp :
+Pulse :
+Resp:
+B.P:
+General Examination/ Allergies Clinical Diagnosis & Management Plan
+History
+Las
+L
+cohhu
+Coudlibiotic
+mudia
+dups X3
+- io
+CN
+CI I drp3 hress)
+(anim O drps X0
+12
+orhml -oGal aloy
+4 dups
+zhine
+Navocler
+3
+nana dvy cbus
+OC
+1
+Bonnisan deps
+OSN",269,313,52,61,0.7621,1.0962,0.2368
+82.jpg,82,EasyOCR,easyocr,none,True,6.9856,"clinical note Baby Otitis media Ear Height 54 cm, weight 4.4 kg, head circumference 39 cm. Otitis media is written in the history section. Antibiotic ear drops 1 drop 3 times daily Taxim O drops 0.4 mL twice daily Nasoclear nasal drops SOS Nasal drops Bonnisan drops 0.5 mL","Balu
+Zo
+b
+e4
+Weight Pulse
+Luug EMI 4(24 6n Resp
+Waist Circum
+Hetott
+54 cn
+B.P :
+Temp
+General Examination Allergies Clinical Diagnosis & Management Plan History dbiotic Ror cohh Cou - mudiap dvps |j__ (0 (1dnp 3 tng
+ulc
+0 srJ Tavim Co& a( drgs o4mu kinee
+NF
+Noocluc nandl YAxbs_ k 14
+onni Sa @rqJ | 0 'iu
+(s4""",269,288,52,60,0.7584,1.0962,0.1842
+82.jpg,82,PaddleOCR,paddle,none,True,3.9755,"clinical note Baby Otitis media Ear Height 54 cm, weight 4.4 kg, head circumference 39 cm. Otitis media is written in the history section. Antibiotic ear drops 1 drop 3 times daily Taxim O drops 0.4 mL twice daily Nasoclear nasal drops SOS Nasal drops Bonnisan drops 0.5 mL","Bany
+20/5p
+M39
+Waist Circum
+Hei54cm
+Weight:
+Resp:
+B.P:
+Pulse:
+Temp:
+General Examination/Allergies
+Clinical Diagnosis & Management Plan
+History
+Coudibiotic ear
+whe
+cohri
+drps
+mdia
+10
+Cn
+drp3tine
+[animO dnps
+m50-ntg0
+eloy
+Gdrps
+Zhine
+Naocer
+JY
+naal duns
+Bonnisadrps
+nS.o",269,260,52,44,0.684,0.9423,0.1316
+82.jpg,82,Doctr,doctr,enhanced,True,6.2996,"clinical note Baby Otitis media Ear Height 54 cm, weight 4.4 kg, head circumference 39 cm. Otitis media is written in the history section. Antibiotic ear drops 1 drop 3 times daily Taxim O drops 0.4 mL twice daily Nasoclear nasal drops SOS Nasal drops Bonnisan drops 0.5 mL","I
+Balry -
+I
+20/Eeph
+y
+Weight : 4.4ld RMI : HCE3960
+Waist Circum :
+Heigk : SACO
+B.P:
+I
+Temp :
+Pulse :
+C r Resp :
+General Examination/ Allergies Clinical Diagnosis & Management Plan
+f
+1
+History
+Rar
+I
+ohhe
+Coudibiotic
+oreps
+I
+mudia
+X3
+il-
+dM
+-
+to
+-
+Cidrp3 hines)
+I
+-
+O drps
+&
+- /
+2
+[anim
+k
+orhml l-ogal day
+a dmps
+V
+-
+UV
+zhines
+Nanoel
+7
+Hups
+3
+nanat E cbs
+1e19
+onnisas
+alepy/n
+OSN",269,340,52,73,0.8364,1.3654,0.1842
+82.jpg,82,EasyOCR,easyocr,enhanced,True,6.875,"clinical note Baby Otitis media Ear Height 54 cm, weight 4.4 kg, head circumference 39 cm. Otitis media is written in the history section. Antibiotic ear drops 1 drop 3 times daily Taxim O drops 0.4 mL twice daily Nasoclear nasal drops SOS Nasal drops Bonnisan drops 0.5 mL","Baby
+Za [sh
+L4lg EiI 1k346) Weight : Pulse Reep
+Waist Circum B?:
+Heistr ; S4cn Temp
+Genera) Examination / Allergies Clinica} Diagnosie & Managemont Plan History Coudbiotic ra cohh u mudiql dwps 1""A_ [9 C [ drp3 ta2)
+Tain 0 #r( o*4mu ~o*q a' Ldgs 2tinez
+Noocluc naal ~S 148
+onni sa1 'xeJ'| 0 'm",269,265,52,54,0.7435,1.0192,0.1579
+82.jpg,82,PaddleOCR,paddle,enhanced,True,3.9321,"clinical note Baby Otitis media Ear Height 54 cm, weight 4.4 kg, head circumference 39 cm. Otitis media is written in the history section. Antibiotic ear drops 1 drop 3 times daily Taxim O drops 0.4 mL twice daily Nasoclear nasal drops SOS Nasal drops Bonnisan drops 0.5 mL","M39
+Waist Circum:
+Heigit :
+54 cm
+Weight :
+4.4 Id
+B.P
+1
+Pulse :
+ Resp :
+Temp :
+General Examination/Allergies
+Clinica) Diagnosis & Management Plan
+History
+reor
+Qudibiotc.
+r9ph
+mIia
+I dry3 tina)
+Sarim O
+4 dmeS
+Z tirew
+Oonisas Qr
+ys.0",269,213,52,41,0.6877,0.8654,0.2105
+84.jpg,84,Doctr,doctr,none,True,7.1609,,"MBBS. Dr. Khawar FCPS Siddique (Medicine) Bhatti Dr. Raja Yasser Shahbaz
+Dr. Talha Khalid (Medicine)
+MBBS, MD (USA), FCPS (Medicine)
+MBBS. For FCPS appointment
+Consultant Physician (Head of Medicine)
+M. Nawaz 0322-4919019
+Gastroenterologist Associate Professor of Medicine
+Name
+Malecha
+Quehi
+204 F Date. 26 - 20
+2
+Me
+Toole ATT ol wek
+Buenkfecen -e
+Pa
+H HA
+E: SR - 22
+GERD- 8yv
+Mulbple Bloool C/S- megalne
+Myperyroid - 'yr -ENA pofile - Pamay Siliay chiuhosin
+Nigaime -
+Sime chilollood
+Parerrt is allergic de 1 onsel,
+yonen, Napr oven
+IBs = lyeai
+anu kaun, lereyloraiu,
+cofucime, cefmasore,N
+fever 99F -103F
+Proma
+exkd,
+X. Trimal
+relivedby Bugn
+Appendeilong -lyr-
+Rf
+Ruplaud ovarian cyst
+Jy
+Iramal + gavimale tn IDce Xstotsos
+Eoolomelioain
+dvil
+t Solo
+caudia
+Jy
+Parhal
+assef
+corref
+A Sos
+U
+2600y
+ofeu CTuontiobt
+1 Eng Risele
+Double lumin cathello
+taudse.Vx Sog
+.
+Y0ny
+yosed,
+Asthma 1 3yr.
+Allurgic Rhimilto
+Aneicly IDepressipe
+MMB - 12 M
+Reital ules
+HAMEED LATIF HOSPITAL
+Block, New Garden Town, Lahore-Pakistan
+14-Abu Bakar
+0332-4000921
+Fax: (042)-35831433,9
+111-000-043 Tel: 042-35862623,
+UAN:",0,1031,0,178,1.0,1.0,0.0
+84.jpg,84,EasyOCR,easyocr,none,True,9.0358,,"RBBshFc9s Siddicino; Bhani (Modicine) Dr: Raja Yasser Shahbaz Dr: Talha Khalid MBBS; FCPS (Medicine) MBBS MD (USA), FCPS (Medicine) For appointment  Consultant Physician (Head of Medicine) M: Nawaz 0322-4919019 Gastroenterologist Associate Professor of Medicine Name Laleeha Quuhi 224 WE Date 2 6 +e/22 R Tolc Att 01 wtek Quwsfeer FlC €SR 22
+GgD- 8 %v Mulhple Buoocl ciS_ megalwr Jpemyid Iyr ENa pckle Rxrran giliard chiuhusi; igaim_ Srme childlhced Parexl alexaic ~lc onsel , Yaen Nap~ 6%en Igs Iyent. anukau m Lewcfloxaee teft- m lefmasOwu N ezb: Vevex 99 F _[0s% Aeema X TumA ulved bj Bxfn Appende lord Ruplkud bVaiam et 1j TnJ aavinale In Id ce strt- Sos Emlornebioqio Jj' Aui | Pachal (akdia astot Solo tsxtcf 2S6-k X So $ afec (T unbobt Gnj Rizebc 4017 Double  lun toHheio ddob60 IVx Sos ~acd. Asthma 38 Allutyic   Rhenilto] fiely Degreastt Fub 12 X Reital ubel , HAMEED LATIE HOGPITAahore-Pakstan 14 ~Abu Bakar Block New Garden Tow35 0 0332-4000921 ""04206862623, Fax: (042)-35831433,5 UAN: 111-000-043 Tel:",0,955,0,172,1.0,1.0,0.0
+84.jpg,84,PaddleOCR,paddle,none,True,4.3131,,"Dr.Khawar Siddique Bhatti
+MBBS.FCPS (Medicine)
+Dr. Raja Yasser Shahbaz
+Dr.Talha Khalid
+MBBS.FCPS (Medicine)
+MBBS, MD (USA), FCPS (Medicine)
+M.Nawaz0322-4919019
+For appointment
+Consultant Physician (Head of Medicine)
+Gastroenterologist Associate Professor of Medicine
+Name
+Maleeha
+Quihi2oyF Date 26
+R
+ESR-22
+HA
+GERD-8y
+nypenyroid-1yr
+Nuigaine
+Sine chilolhoog
+IBS-lyea
+amkacin Levoglorae,
+cofuximecefniosonNezkd
+eve 99F-103F
+Aomax.Trimal.
+neliveo by Bugen
+Appendetony -1g
+R4
+Rupluue ovauion cyst
+-Jj
+Tramal + gavinate in loce xstrsos
+1
+Bndoneliosis
+m9g4+1p-
+Panal cadia auet
+XSOS
+ISos
+nasedl.
+Asthma-3yr.
+Aungic Ruinilis
+Aneiey IDepresfu
+HMB-12H
+Reital ules
+HAMEED LATIF HOSPITAL
+14-Abu Bakar Block, New Garden Town, Lahore-Pakistan
+UAN:111-000-043 Tel:042-35862623Fax:(042-358314330332-4000921",0,767,0,120,1.0,1.0,0.0
+84.jpg,84,Doctr,doctr,enhanced,True,7.0294,,"MeBS. Dr. Khawar FCPS (Medicine) Siddique Bhatti Dr. Raja Yasser Shahbaz
+Dr. Talha FCPS Khalld (Medicine)
+MBBS, MD (USA), FCPS (Medicine)
+MBBS. M, Nawaz For appolntment 0322-4913019
+Consultant Physician (Head of Medicine)
+Gastroenterologist Associate Professor of Medicine
+Name.
+Maleeha
+Ouehi 20y JE Date. 26
+26
+Mi
+Toole ATT ol week < Buenejesen -e
+Ha
+ESR - 22
+GERD- 8y
+i Malhple Bloool c/s- megalnie
+Pyperhyoid-lye 11 ENA pofile i Paimay
+chiuhosir
+-
+Siliay
+Augaim
+Sme chillhoyf
+Pareunt io allergic do * onset,
+Yoren, Napr oxen
+IBs L lyena
+amel kacin, leroylorais,
+Lofpei me, cefmiangne ,N ezka
+fevei 99*F -1F
+Proma
+ir
+X. Tremal
+kelinedby Bufen
+Appendeclong -lyr.
+Rf
+Ryphaud ovariam cyst
+i 2y
+lramal + gavimale in ID ce xsbe-Sos
+Endlomellocin
+Farhal cardia asss
+- Jy
+dvil
+t Solo corpep 260y A Sos
+oftau CTuontiopt
+-
++
+
+RBel
+todso.
+Double lumim cathelio
+Yony
+IVX Sog
+yosed.
+Asthma -3g.
+Allurgoe Rhumilts
+Anoeicy iDepresie
+MMB -12H*.
+Reital ulres,
+HAMEED LATIF HOSPITAL Lahore-Pakistan
+Bakar Block, New Garden Town,
+0332-4000921
+14-Abu
+Fax: (042)-35831433,9
+111-000-043 Tel: 042-35862623,
+UAN:",0,1025,0,178,1.0,1.0,0.0
+84.jpg,84,EasyOCR,easyocr,enhanced,True,8.9564,,"Baashocss {ladicins Bhati Dr Raja Yasser Shahbaz Or. Tolha Kholld 4bbs_ FCPS (Mndicimo} MBBS, MD (USA); FCPS (Medlcine) Fot #PBeIntnamt Consultant Phyalcian (Hoad Medlcine) M Matlz 03224019019 Gastroanterologlet Asgociate Profeeaor of Medlcine Name Maleeha Qusahi 224 Date_ 2yet2
+Teos Att o1 btek
+Duuwtfaen ~ ESr 22
+Ggd- %y: Mubhple Buopok cis- megalwus Yopesmneid - Iyr ENa Pokle Yirot &liar} chiuhse; iraim_ Sm chilulhoy Pabexxt 6 alexac onsel , 7an amkau m Nap bum Igs Iyeae: lnotloneklit Ufr ~ , lftnan er Fevex 99'F _fsF N ezea pesma X Tima celtvesl by &utn | Appedeelord Rypu bVaud et Jj TnJ + Javinali Ih |d ce xsb Sos Eznolornsb doain J) Aui| Paxbak (di aks6ot Ssl terkf 2Sb1 1 So $ #f0 C untott Doube lumum bi Rieb tatheo 4o~1 40050 Iv+ S03 aacdA. Astma 3 dr. Auuyc Rhaalto] fvel Dere ressy FB 12_ Y Rexal ubex HAMEED LATEJEOGPITAahore Paklstan 14 - Abu Bakar Block New Garden Tow35 0332-4000921 ""08loc5862623, Fax: (042)-35831433,5 UAN: 111-000-043 Tel;",0,902,0,161,1.0,1.0,0.0
+84.jpg,84,PaddleOCR,paddle,enhanced,True,4.4121,,"Dr. Khawar Slddique Bhattl
+MBS.FCPs.(Medicin
+Dr. Raja Yasser Shahbaz.
+Dr.Talha Khalld
+MBBS.FCPSMedcine
+MBBS, mD (USA), FCPS (Medicine)
+Forappointment
+Consultant Physician (Head of Medicine)
+M.Naw
+0322-4919019
+Gastroenterologlst Associate Professor of Medlcine
+Name.
+Moleehs.
+Qustshi
+R
+U
+ESR-2
+HA
+GERD-%yv
+mobnu-s/3 yoorg ndynn 
+Hypeyoid-1yr
+Migaime
+-Parent io allengic io : onset, rohen, Naproxen
+Sme chilohog
+IBS - 1yeas.
+Omskaun. Levojioraeis.
+eAfrxi mna, ceftroe @re, N erks
+reu 99*F-f3F
+Aromax. Trsmal.
+Leliveo by Bugn
+Rupla ovaisan cyt
+ThamaI + gavinaTe in 1Dc x&btSoS
+Berdorriosin
+Avif t Solocofcf
+Panal cadlia anst
+x SoS
+oftes c7wortioft
+Risel YOn
+Double. burun canelio
+dto0s  IV x So3
+naxee.
+Asthno, - 3 yr.
+Auwrgr. Rrunilcs
+Anxety I Depressir.
+MB  J2  o.
+Rertx! ubes.
+HAMEED LATIF HOSPITAL
+14 - Abu Bakar Block, New Garden Town, Lahore-Pakistan
+UAN: 111-000-043 Tel; 042-35862623, Fax: (042)-35831433, 0332-4000921",0,865,0,149,1.0,1.0,0.0
+85.jpg,85,Doctr,doctr,none,True,6.774,prescription slip 2020-01-18 Rajiv Gandhi Cancer Institute and Research Centre Mrs. Meena Dixit C.R. No: 267599 41 Female Carcinoma left breast Breast carcinoma Left breast cT4bN0M0 Plan: Neoadjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy.,"Cancer Institute
+Rajiv and Remearch Gandhi Centre
+soor
+2229 TGSTINE 0r NNA 1400120 Email ID:
+a
+10085
+4702
+Rohini De
+Date : 20-Jan-2020 5:07 PM
+18
+na
+Order
+F/RECP/01-05-06
+F-10A Rajiv Gandhi Cancer Institute
+@
+@ CGreenor
+and Research Centre
+NABL NABH
+Cartitiedoreen OperationTheatre
+- AUnit of Indraprastha Cancer Society Act 1860""
+Registered under ""Societies Registration
+Sector-V. Rohini, Delhi - 110 085
+Tel.: 47022222 (30 Lines), 27051011 - 1015, Fax: 91-11-27051037
+18-0) 202D
+267599
+Date
+C. R. NO.
+Disit
+Name
+meena
+Patient's
+Mrs
+Akhewau
+Age/Sex YLLE
+Doctor's Name
+PRESCRIPTION SLIP
+%
+A.
+Carcinoma Left Breayt
+ClybNo Mho
+Plaw.
+I 1 Heo-coljuveunt
+Chemotnaupy
+follosel
+by Hassemaut
+fer
+-
+-
+Acy RT
+Prir
+Surgeny
+Ironl
+PLEASE TAKE PRIOR
+1-20W
+APPOINTMENT FOR NEXT VISIT",271,732,40,129,1.9631,2.85,0.6286
+85.jpg,85,EasyOCR,easyocr,none,True,16.1977,prescription slip 2020-01-18 Rajiv Gandhi Cancer Institute and Research Centre Mrs. Meena Dixit C.R. No: 267599 41 Female Carcinoma left breast Breast carcinoma Left breast cT4bN0M0 Plan: Neoadjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy.,"Institute Cancer Gandhi Raiv Ceutre 0kuiiie Gd Reseurch FiN QFAA A/huuath3|F0 and J 2[ 470` 22a Maus Tel Fianen: @n 20-Jan-2020 5 07 PM i Order Date na
+FIRECP/O| 05-06
+F-1OA Rajiv Gandhi Cancer Institute and Research Centre NARH A Unit of Indraprastha Cancer Society Registered under 'Societies Registration Act 1860"" Sector-V, Rohini, Delhi 110 085 47022222 (30 Lines) , 27051011 1015, Fax : 91-11-27051037 Tel:
+C Greenor cor(i(igu Hiesn umbiaiion Thaain
+NAAH
+NabL
+IA_ek 20) 0 Date
+26.1541 C.R NO. Mxs Dzencu_Aixit Patient's Name Akeuqu Age/Sex YLLE Doctor's Name PRESCRIPTION SLIP
+Carcinome Leb Breayt ClyzNo Mo DlewJ Neo_aoljuvew t Chemothovpy} follonkel LX Heovkswax | Quxt Aui P{
+Prir
+PLEASE TAKE PRIOR ~LJ APPOINTMENT FOR NEXT ViSIT",271,714,40,134,1.952,3.075,0.4
+85.jpg,85,PaddleOCR,paddle,none,True,4.2468,prescription slip 2020-01-18 Rajiv Gandhi Cancer Institute and Research Centre Mrs. Meena Dixit C.R. No: 267599 41 Female Carcinoma left breast Breast carcinoma Left breast cT4bN0M0 Plan: Neoadjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy.,"20-Jan-20205:07PM
+Order Date
+F/RECP/01-05-06
+F-10A
+Rajiv Gandhi Cancer Institute
+cGreenoT
+and Research Centre
+A Unit of Indraprastha Cancer Society
+Registered under Societies Registration Act 1860
+Sector-VRohiniDelhi-110 085
+Tel.47022222 (30Lines27051011-1015Fax91-11-27051037
+Date.8-0-200
+267599.
+C.R.NO..
+Patien's Name..enii
+vomnHe
+Jh
+Doctor's Name.
+Age/Sex
+PRESCRIPTION SLIP
+Rx
+A
+Carcinoma Left Brenyt
+cTyrNomo
+mid
+I-Neo-ceijuvent Cnennotnerpy
+follonkelbyteansesmont
+Prir
+PLEASE TAKE PRIOR APPOINTMENT FOR NEXT VISIT
+81.202",271,520,40,86,1.2731,1.8,0.4857
+85.jpg,85,Doctr,doctr,enhanced,True,6.7576,prescription slip 2020-01-18 Rajiv Gandhi Cancer Institute and Research Centre Mrs. Meena Dixit C.R. No: 267599 41 Female Carcinoma left breast Breast carcinoma Left breast cT4bN0M0 Plan: Neoadjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy.,"Cancer Instituto
+Rajiv Research Gandhi Centro
+OTAATMANIEDI Cmas a anO to oro
+and
+11000s1 Tal 0 4r03 :223 GSTN
+anu 2
+Date : 20-Jan-2020 5:07 PM
+O a Sector
+nna
+Order
+F/RECP/01-05-0G
+F-10A Rajiv Gandhi Cancer Institute
+@
+@ CGreenor :is. :
+and Research Centre
+NAUR NADL NAUA
+Carlitedoiean Operallonthoslie
+6 A d > AUnit of Indraprastha ""Societies Cancer Registration Society Act 1860""
+Registered under
+Sector-V. Rohini, Delhi - 110 085
+91-11-27051037
+Tel.:47022222 (30 Lines), 27051011 - 1015, Fax:
+18-01 202D
+Date
+NO.
+267599
+C. R.
+Aieit
+Name
+Patient's
+frs meenay
+Henewan
+Doctor's Namé
+Age/Sex :
+YLLE
+PRESCRIPTION SLIP
+%
+A.
+Carcinoma Lelt Brentt
+C4hNO mo
+Plaw.
+I 1 Heo-asljuvemnt
+Chemotnarepy
+folloncel
+by Rasemaut
+fer
+- Acy RT
+Prir
+Surgny
+Bronl
+PLEASE TAKE PRIOR
+Iu
+:
+APPOINTMENT FOR NEXT VISIT",271,751,40,136,2.0258,3.075,0.5429
+85.jpg,85,EasyOCR,easyocr,enhanced,True,15.9454,prescription slip 2020-01-18 Rajiv Gandhi Cancer Institute and Research Centre Mrs. Meena Dixit C.R. No: 267599 41 Female Carcinoma left breast Breast carcinoma Left breast cT4bN0M0 Plan: Neoadjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy.,"""7u Du
+Instituto Canccr Gandhi Centro Dirmu Bo Oid weito Rajiv Rcscanch OJAAAnUIAL*Ciz0 Cinad I ) nj #ad {233,OsnN ~""nj 'o01s 20-Jan-2020 5.07 PM Order Date
+FIRECP/01-05-0G
+F-1OA Rajiv Gandhi Cancer Institute Naua Greenot and Research Centre Nad Gotiiiiog Qijda Opoiqiion Iabbiig A Unit ol Indraprastha Cancer Society Registered under ""Societies Registration Act 1860"" Sector-V, Rohini; Delhi - 110 085 Tel : 47022222 (30 Lines). 27051011 1015, Fax : 91-11-27051037 ~0 202D 96 +41 Date C R NO. [eenc lviE Patient's Name ~MIrx_ YLLE Doctor's Nams-I1ey  AgelSex PRESCRIPTION SLIP_
+Carcinoma_LeLE_ Brewst LTyLHlo Ko Qla: Neo_= cljuvex-t Chemotnevpk follonpe bx Reavxsast An Qur(n^ Au1 Pt Prir
+2LJ PLEAGE TAKEPRIOR APPOINTMENT FOR NEXT ViSIT",271,702,40,126,1.9077,2.825,0.4857
+85.jpg,85,PaddleOCR,paddle,enhanced,True,4.1564,prescription slip 2020-01-18 Rajiv Gandhi Cancer Institute and Research Centre Mrs. Meena Dixit C.R. No: 267599 41 Female Carcinoma left breast Breast carcinoma Left breast cT4bN0M0 Plan: Neoadjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy.,"Order Date : 20-Jan-2020 5:07 PM
+F/RECP/01-05-0G
+F-10A
+Rajiv Gandhi Cancer Institute
+Greenot
+and Research Centre
+A Unit of Indraprastha Cancer Society
+Registered under *Societies Registration Act 1860*
+Sector-V, Rohini, Delhi - 110 085
+Tel. : 47022222 (30 Lines). 27051011 - 1015. Fax : 91-11-27051037
+2020
+Date
+C.R. NO..
+1r0.nc
+Patient's Name. ..Mr..
+nomnH*O
+yLIF
+Doctor's Name ....
+Age/Sex ...
+PRESCRIPTION SLIP
+R
+X
+Aruinoma Lelt Breny
+1 -Neo-coljuvet Chenmotnevupy
+ro\loweel
+Prir
+PLEASE TAKE PRIOR APPOINTMENT FOR NEXT VISIT",271,490,40,91,1.2546,1.975,0.4286
+94.jpg,94,Doctr,doctr,none,True,6.2046,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre hospitalier universitaire de Sherbrooke
+819 346-1110
+Hôtel Dieu
+Hôpital Fleurimont
+580, rue Bowen Sud
+3001, 12e avenue Nord
+Sherbrooke (Qc) J1G 2E8
+Sherbrooke (Qc) J1H 5N4
+1""
+Date : Dec
+20 17
+Mme, M.
+Dohn
+Hubbard
+R
+Acetaminophen
+650me
+94h
+PRN
+disease:
+le
+Theat
+(ovonoru
+anfeve
+glma
+PO
+daily
+Aspinn
+-
+35 - -
+TO das
+Clopidogre
+Toug
+D.
+Jener>
+M
+ne pas répéter
+répéter
+fois
+0-6-11801",313,370,46,68,0.7955,1.3478,0.4
+94.jpg,94,EasyOCR,easyocr,none,True,6.8471,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre hospitalier universitaire de Sherbrooke 819 346-1110 Hotel Dieu Hopital Fleurimont 580, rue Bowen Sud 3001, 12e avenue Nord Sherbrooke (Qc) J1G 2E8 Sherbrooke (Qc) JIH SN4
+Date
+Dec Mme, M John Hubbard
+20IT
+R Acetamiiophen SOnc 144 Prn T Teat Covono^ axFeve disease: S1 Po duil~ Aspinn VA ?o Clopidoyel
+Dr Jeue > (OL~ 0-6-11801
+ne pas repeter repeter fois",313,351,46,64,0.7827,1.3043,0.3333
+94.jpg,94,PaddleOCR,paddle,none,True,4.0718,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUSCentre hospitalier universitaire de Sherbrooke
+819346-1110
+Hotel Dieu
+Hopital Fleurimont
+580,rue Bowen Sud
+3001,12e avenueNord
+Sherbrooke Qc)J1G 2E8
+Sherbrooke Qc) J1H 5N4
+Date:_Dec1
+201
+John Hubbaro
+Mme,M.
+R Aretaminophen
+PRN
+To tneat
+Covonor
+F&pin
+ ne pas repeter
+ repeter
+fois
+0-6-11801",313,288,46,49,0.7029,1.0652,0.2333
+94.jpg,94,Doctr,doctr,enhanced,True,6.1612,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre nospitalier universitaire de Sherbrooke
+819 346-1110
+Hôtel Dieu
+Hôpital Fleurimont
+580, rue Bowen Sud
+3001, 12° avenue Nord
+Sherbrooke Qc) J1G 2E8
+Sherbrooke (Qc) J1H 5N4
+Date : Dec I""
+20 17
+Mme, M.
+Dohn
+Hubbard
+R
+Acetaminophen
+650m
+94h
+PRN
+-
+divease:
+le
+theat
+covonon
+ayfer
+PO
+daily
+Aspinin
+ima
+a -
+TO dail A
+Clopidogre
+Toun -
+Dr
+Jener>
+A
+ne pas répéter
+répéter,
+fois
+0-6-11801",313,370,46,69,0.8019,1.3696,0.3667
+94.jpg,94,EasyOCR,easyocr,enhanced,True,6.1427,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUS Centre hospitalier universitaire de Sherbrooke 819 346-1110 Hotel Dieu Hopital Fleurimont 580, rue Bowen Sud 3001, 12e avenue Nord Sherbrooke (Qc) J1G 2E8 Sherbrooke (Qc) JIH 5N4
+Date
+Des Mme, M; 28hu Aobbard
+20J
+R Aretamiophen 6so 144 Frn tect Csvona axlevt drttas: S1 dail Aspinn clopidoy-|
+Jeue  WdL^ 0-6-11801
+ne pas repeter repeter_ fois",313,333,46,59,0.7476,1.2391,0.1667
+94.jpg,94,PaddleOCR,paddle,enhanced,True,3.8344,prescription 2017-12-01 Centre hospitalier universitaire de Sherbrooke John Hubbard Coronary artery disease Prescription indicates treatment for coronary artery disease. Acetaminophen 650 mg q4h PRN Aspirin 81 mg PO daily To treat coronary artery disease Clopidogrel 75 mg PO daily To treat coronary artery disease,"CHUJS Centre hospitalier universitaire de Sherbrooke
+819 346-1110
+Hotel Dieu
+Hopital Fleurimont
+580, rue Bowen Sud
+3001, 12 avenue Nord
+Sherbrooke (Qc) J1G 2E8
+Sherbrooke (Qc) J1H 5N4
+n1 T iote
+20 
+John Hubbard
+Mme, M.
+R
+Aretaminophen
+RN
+To fueat
+CSvona
+ ne pas repeter
+ repeter.
+fois
+0-6-11801",313,282,46,51,0.6933,1.0435,0.3
+95.jpg,95,Doctr,doctr,none,True,6.5934,OP notes 2020-01-10 OPD Sunshine Gachibowli Babyriti Dubey UHID: UMR0643469; Encounter No: OP20005322 1 year 2 months 30 days Female Bilateral profound hearing loss Ears BERA: no peak at 90 dB. OAE: refer. Impedance: WNL. Motor and social milestones are good. Advice: CT scan temporal bone and MRI cochlear implant protocol.,"DR. SAMPURNA GHOSH
+Consultant ENT, Head Apnea and (Snoring) Neck Surgeon and Endoscoplc Sinus Surgery
+Specialist In Sleep
+MBBS, MS (ENT)
+UHID
+UMR0643469
+Name
+BABYRITI DUBEY
+Encounter No OP20005322
+Age (Gender) 1Y 2M 30D (F)
+Registration 10/01/2020 15:09
+Sponsor
+SELF ( CASH)
+Valid Upto 19/01/20
+Visit
+NEW VISIT (1)( OPD SUNSHINE GACHIBOWLI -1 10/01/2020 15:09)
+OP Notes
+: End
+Roford HeariygLoy.
+Bilaleral
+I
+at 960B
+No peal
+a BERA :
+Refen
+OAE à :
+-
+WM.
+-
+Impederce
+-
+development
+gcod
+milestaner
+I
+Motor
+denelgpmin
+Bocial
+ponl
+Henspera
+CTsaM
+Aav:
+Suplant
+A
+lochleas
+2 MRI
+Protocol
+Pleare
+maximum
+bhosh.
+gine
+cunt
+dis
+Prescription Generated
+se-puuna
+GACHIBOWLI) (R15663) On:10/01/2020 15:14 (OPD SUNSHINE
+Page 1 of1
+DR. SAMPURNA GHOSH",312,691,53,123,1.5962,2.1509,0.4706
+95.jpg,95,EasyOCR,easyocr,none,True,7.0219,OP notes 2020-01-10 OPD Sunshine Gachibowli Babyriti Dubey UHID: UMR0643469; Encounter No: OP20005322 1 year 2 months 30 days Female Bilateral profound hearing loss Ears BERA: no peak at 90 dB. OAE: refer. Impedance: WNL. Motor and social milestones are good. Advice: CT scan temporal bone and MRI cochlear implant protocol.,"DR. SAMPURNA GHOSH Consultant ENT, Head und Neck Surgaon Speclaliat In Slneo Apnea (Snoring) Endoacoplc Sinus Surgory MBBS; MS (ENT) UMRO643469 Name BABYRITI DUBEY IUHID Encounter No   OP20005322 (Gender) 1Y 2M 30D ( F ) 10/01/2020 15.09 Spansor SELF CASH ) Registration 19/01/20 Visit Valid Upto NEW Visit (1) ( OPd SUNSHINE GACHIBOWLI _ 10/01/2020 15.09)| QP Notes
+End
+Bilalel Ritoud Hzawvyd ! Lors, No Peak ak 96d/ BE R4 0AE Reten WM Impedeuce - Auelqent mllesknes Jred Mcor Aeueloptnl 66 Uc tenperaf bon& LT Xlam A8v: (ochlr Suxvant MRT RRrotbcl. Plax  baxiyum Yine hlork _ di Prescription Generated On Zwpua = GACHIBOWLI) (R15663} 10101/2020 15.14 (OPD SUNSHINE Page ol 1 DR. SAMPURNA GHOSH",312,650,53,115,1.5256,2.0377,0.2745
+95.jpg,95,PaddleOCR,paddle,none,True,3.9799,OP notes 2020-01-10 OPD Sunshine Gachibowli Babyriti Dubey UHID: UMR0643469; Encounter No: OP20005322 1 year 2 months 30 days Female Bilateral profound hearing loss Ears BERA: no peak at 90 dB. OAE: refer. Impedance: WNL. Motor and social milestones are good. Advice: CT scan temporal bone and MRI cochlear implant protocol.,"DR.SAMPURNA GHOSH
+Consultant ENT. Head and Neck Surgeon
+MBBS,MS (ENT)
+UHID
+UMR0643469
+Name
+BABYRITI DUBEY
+Encounter No OP20005322
+Age Gender1Y 2M 30DF
+10/01/202015:09
+Sponsor
+SELFCASH
+Registration
+Valid Upto
+19/01/20
+Visit
+OP Notes
+End
+BERA: No peak at g60B
+OAE:Refer
+-Snpedence-wm.
+gee
+-Motor milestneg -deelennent
+social deuelpnent
+eTslan tenyeralpone
+Aev:
+4MRI-Cochlear Suplent
+Rrotocol.
+Pleare
+gine maximum
+PrescriptionGeneratedOn10/01/202015:14 OPDSUNSHINE
+GACHIBOWLI) (R15663)
+Page 1 of1
+DR.SAMPURNA GHOSH",312,498,53,78,1.0417,1.2453,0.4314
+95.jpg,95,Doctr,doctr,enhanced,True,6.5855,OP notes 2020-01-10 OPD Sunshine Gachibowli Babyriti Dubey UHID: UMR0643469; Encounter No: OP20005322 1 year 2 months 30 days Female Bilateral profound hearing loss Ears BERA: no peak at 90 dB. OAE: refer. Impedance: WNL. Motor and social milestones are good. Advice: CT scan temporal bone and MRI cochlear implant protocol.,"DR. SAMPURNA GHOSH
+Connulant ENT, Head Apnas und (Snoring) Neck Surgeon and Endoscopla Sinua Surgery
+Spactallst in Sleep
+MBaS, MS (ENT)
+UHID.
+UMRD643489
+Name
+BABYRITI DUBEY
+EncountarNo OP20005322
+Age (Gender) 1Y 2M 30D (F)
+Registration 10/01/2020 16:08
+Sponsor
+SELF ( CASHI
+Vald Uplo 19/01/20
+Vlalt
+NEW VISIT (1( OPO BUNBHINE GACHIBOWLI  10/01/2020 15:00)
+OP Notes
+* End :
+Rrofoud Hearinglow,
+I
+Bilaleral
+at
+a
+960B
+No
+i
+peah
+BERA :
+-
+Refen
+OAE 
+il
+it WM.
+i
+Smpedence
+U
+development
+I
+goer
+milertoner
+-
+Motor
+denelopmeng
+Bocal
+temporalbone
+CTALaM
+AR WN.
+Suplant
+lochleas
+d MRI 
+Propocol.
+Pleare
+-
+:
+maxingm
+bhosh.
+-
+gine hcount
+dis
+Prescription
+an-puuna
+Generated.on 10/012020 15:14 (OPD SUNSHINE
+GACHBOML)R15669)
+-
+Page 1 of1
+DR, SAMPURNA GHOSH.",312,697,53,123,1.6218,2.2075,0.3922
+95.jpg,95,EasyOCR,easyocr,enhanced,True,7.3241,OP notes 2020-01-10 OPD Sunshine Gachibowli Babyriti Dubey UHID: UMR0643469; Encounter No: OP20005322 1 year 2 months 30 days Female Bilateral profound hearing loss Ears BERA: no peak at 90 dB. OAE: refer. Impedance: WNL. Motor and social milestones are good. Advice: CT scan temporal bone and MRI cochlear implant protocol.,"DR: SAMPURNA GHOsH Conjunun ENT; Herdund Necr Bhrng Siep"" Nmu (Bnaria} Endoecopka Biaua bunptry Sprcl M0a8,MS (EHI} VmRde134Bp Nanta BABYRNI dubeY {UHid enountat M0720005322 70a (Gonder} 1Y ?M JQd (p) 1001/2024 6,08 Bpangar 9ELF Reglebratkxt CABk ) 18012 Viat"" Vad Uxbo NEW V@IIWIOF@ dunbhine QAcHIBOWI {1461.1020 16to| QPNetea
+End
+glaleul Rrtrud Hzaxivd Lons Bera No peah at 96d3 0#f Retea WM_ Impedeuce - Louelopmet mllestes Irerd Mobr Ulou Qeuelgpmena 66= teneraX b& LT Xlam Av:_ Au/unt MRT aohta. Plax  Maizum tive abok . d  RusbtChtixon 1001fo20 18.44 (OPD SUNNsKIIE Swpua= GNCHLOM)(RIS) P3141 Or; SAMPURNA CKOSK",312,581,53,101,1.359,1.8113,0.1176
+95.jpg,95,PaddleOCR,paddle,enhanced,True,3.9767,OP notes 2020-01-10 OPD Sunshine Gachibowli Babyriti Dubey UHID: UMR0643469; Encounter No: OP20005322 1 year 2 months 30 days Female Bilateral profound hearing loss Ears BERA: no peak at 90 dB. OAE: refer. Impedance: WNL. Motor and social milestones are good. Advice: CT scan temporal bone and MRI cochlear implant protocol.,"DR.SAMPURNA GHOSH
+CoNTHn Nk Sg
+MSMENT
+UHID.
+UMR0643469
+Narme
+BABYRITI DUBEY
+EncounNCP20005322
+Ago Gondr)1Y 2M 30DF
+Registration
+10/01/202015:08
+Spansor
+BELFCA3K
+Vald Uplo
+19/01/20
+Va't
+OPNotes
+No. peah ot g6oU
+BERA :
+OAE Refe^
+Impedence+ WM.
+Motor milestcnes - dluelepreu?.
+Soelod deuelpnen?
+Henyer
+Ct stam
+4MRT - (ochlea,
+yor
+meximim
+aine
+discont
+n101/2020SHN
+GACBWR15883
+Paga1
+DR.SAMPURNA GHOSH.",312,380,53,63,0.8526,1.0943,0.2157

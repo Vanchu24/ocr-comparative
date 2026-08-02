@@ -1,0 +1,4 @@
+ocr_engine,ocr_engine_key,documents_evaluated,documents_successful,average_cer,average_wer,average_time_seconds,average_reference_token_recall,success_rate_percent
+PaddleOCR,paddle,50,50,1.0273,1.3121,3.9387,0.1689,100.0
+EasyOCR,easyocr,50,50,1.5574,2.174,7.8188,0.1672,100.0
+Doctr,doctr,50,50,1.8261,2.4459,6.3804,0.2782,100.0

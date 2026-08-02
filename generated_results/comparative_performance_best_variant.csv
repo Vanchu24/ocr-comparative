@@ -1,0 +1,4 @@
+﻿OCR Engine,Selected Variant,Documents Evaluated,Successful Documents,Average CER,Average WER,Average Processing Time (s),Reference Token Recall,Success Rate (%)
+PaddleOCR,enhanced,25,25,0.9641,1.2527,3.9306,0.1561,100.0
+EasyOCR,enhanced,25,25,1.4992,2.0659,7.7711,0.1467,100.0
+DocTR,enhanced,25,25,1.7889,2.4497,6.3762,0.2609,100.0

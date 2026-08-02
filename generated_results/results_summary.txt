@@ -1,0 +1,17 @@
+RESULT SUMMARY
+==============
+
+Best tested configuration per engine:
+- PaddleOCR: enhanced (CER 0.9641, WER 1.2527, time 3.9306 s)
+- EasyOCR: enhanced (CER 1.4992, WER 2.0659, time 7.7711 s)
+- DocTR: enhanced (CER 1.7889, WER 2.4497, time 6.3762 s)
+
+Main findings:
+- Lowest CER: PaddleOCR (0.9641)
+- Lowest WER: PaddleOCR (1.2527)
+- Fastest engine: PaddleOCR (3.9306 s)
+- Highest reference-token recall: DocTR (0.2609)
+
+Interpretation:
+CER and WER may exceed 1.0 when insertions, substitutions, and deletions together
+exceed the number of reference characters or words.
